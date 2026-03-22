@@ -1,0 +1,11 @@
+---
+title: "Památky obce Česká Domaslav, politický okres Planá"
+slug: "pamatky-obce-ceska-domaslav-politicky-okres-plana-2"
+sourceUrl: "https://www.soupispamatek.com/okres_plana/foto/okrouhle_hradiste/okrouhle_hradiste.htm"
+sourcePath: "pages/00875-okres_plana-foto-okrouhle_hradiste-okrouhle_hradiste.htm.html"
+district: "plana"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 7
+images: ["https://www.soupispamatek.com/okres_plana/foto/okrouhle_hradiste/okrouhle_hradiste_soubory/image003.jpg", "https://www.soupispamatek.com/okres_plana/foto/okrouhle_hradiste/okrouhle_hradiste_soubory/image005.jpg", "https://www.soupispamatek.com/okres_plana/foto/okrouhle_hradiste/okrouhle_hradiste_soubory/image018.jpg", "https://www.soupispamatek.com/okres_plana/foto/okrouhle_hradiste/okrouhle_hradiste_soubory/image019.jpg", "https://www.soupispamatek.com/okres_plana/foto/okrouhle_hradiste/okrouhle_hradiste_soubory/image020.jpg", "https://www.soupispamatek.com/okres_plana/foto/okrouhle_hradiste/okrouhle_hradiste_soubory/image021.jpg", "https://www.soupispamatek.com/okres_plana/foto/okrouhle_hradiste/okrouhle_hradiste_soubory/image022.jpg"]
+---
+Památky obce Česká Domaslav, politický okres Planá Kód CZ 11328 Okrouhlé Hradiště (Scheiben Radisch) Osada: Šipín Kostel Narození sv.Jana Křtitele Zdroj 2) 1881, neorománský Fara ... Zámek Daňkov Zdroj C) Lovecký zámeček Hrad Gutštejn Zdroj C) ... Pravěké hradiště Zdroj C) Hradišťský kopec s přírodní rezervací Hradišťský vrch a pravěkým hradištěm Zpět na okres Panství Politický okres Planá, s.o.Bezdružice 1961 Okres Tachov Část Konstantinových Lázní 2003 Pověřený městský úřad Historie obce První písemná zmínka o vesnici pochází z roku 1369 Rok obyv. domů 1850 1927 496 N 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice čsl, 1927 2) Bartušek, Krčálová, Merhautová-Livorová, Umělecké památky Čech I, 1957 Kód CZ 16061 Šipín (Schippin) Kostel sv.Barbory Zdroj C) ... Fara ... Kaplička P. Marie Zdroj C) 1892 Boží muka Zdroj C) ... Slovanské hradiště Zdroj C) stávalo na místě osady již v desátém až třináctém století. Řada nálezů keramiky však dokládá, že mohlo vzniknout již v pozdní době bronzové. Dochovaly se z něj zbytky opevnění v podobě valů. Historie První písemná zmínka o vesnici pochází z roku 1369 Jaromír Lenoch © Ak tualizace 22.1.2018

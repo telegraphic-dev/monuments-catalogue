@@ -1,0 +1,11 @@
+---
+title: "Památky obce Svatkovice, politický okres Milevsko"
+slug: "pamatky-obce-svatkovice-politicky-okres-milevsko"
+sourceUrl: "https://www.soupispamatek.com/okres_milevsko/foto/svatkovice/svatkovice.htm"
+sourcePath: "pages/00279-okres_milevsko-foto-svatkovice-svatkovice.htm.html"
+district: "milevsko"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 10
+images: ["https://www.soupispamatek.com/okres_milevsko/foto/svatkovice/svatkovice_soubory/image016.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/svatkovice/svatkovice_soubory/image017.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/svatkovice/svatkovice_soubory/image005.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/svatkovice/svatkovice_soubory/image006.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/svatkovice/svatkovice_soubory/image007.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/svatkovice/svatkovice_soubory/image009.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/svatkovice/svatkovice_soubory/image011.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/svatkovice/svatkovice_soubory/image013.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/svatkovice/svatkovice_soubory/image002.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/svatkovice/svatkovice_soubory/image003.jpg"]
+---
+Památky obce Svatkovice, politický okres Milevsko Kód CZ 15778 Svatkovice Kaple sv.Jana Nepomuckého Zdroj C) … Výklenková kaplička P.Marie Sepekovské Zdroj C) u sinice z Bilinky do vesnice. Je zasvěcená Panně Marii Sepekovské a je z roku 1847. Železný kříž Zdroj C) Před kaplí Železný kříž Zdroj C) U silnice do Bernartic Železný kříž Zdroj C) U silnice do Bernartic Památník padlým Zdroj C) náves Nápis: Našim padlým 1914 - 1918 Frant. Benda Václav Čapek Frant. Fridl Václav Chýle Josef Novák Václav Žák, 1939-1945 Josef Mrzena Velkostatek č.p.8 … Chalupa č.p.9 Zdroj C) Roubená Zpět na okres Panství Politický okres Milevsko, s.o. Bechyně 1961 Okres Písek 2003 Pověřený městský úřad Část Bernartic Historie obce První písemná zmínka o vesnici pochází z roku 1486 Rok obyv. domů 1850 1927 189 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl, 1927 C) cs.wikipedia.org (11.12.2019) Jaromír Lenoch © Ak tualizace 11.12.2019

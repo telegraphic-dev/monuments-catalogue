@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Božkov, bývalý politický okres Plzeň"
+slug: "soupis-pamatek-obce-bozkov-byvaly-politicky-okres-plzen"
+sourceUrl: "https://www.soupispamatek.com/okres_plzen/foto/bozkov/bozkov.htm"
+sourcePath: "pages/01161-okres_plzen-foto-bozkov-bozkov.htm.html"
+district: "plzen"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 14
+images: ["https://www.soupispamatek.com/okres_plzen/foto/bozkov/bozkov_soubory/image003.jpg", "https://www.soupispamatek.com/okres_plzen/foto/bozkov/bozkov_soubory/image005.jpg", "https://www.soupispamatek.com/okres_plzen/foto/bozkov/bozkov_soubory/image032.jpg", "https://www.soupispamatek.com/okres_plzen/foto/bozkov/bozkov_soubory/image033.jpg", "https://www.soupispamatek.com/okres_plzen/foto/bozkov/bozkov_soubory/image034.jpg", "https://www.soupispamatek.com/okres_plzen/foto/bozkov/bozkov_soubory/image035.jpg", "https://www.soupispamatek.com/okres_plzen/foto/bozkov/bozkov_soubory/image036.jpg", "https://www.soupispamatek.com/okres_plzen/foto/bozkov/bozkov_soubory/image037.jpg", "https://www.soupispamatek.com/okres_plzen/foto/bozkov/bozkov_soubory/image038.jpg", "https://www.soupispamatek.com/okres_plzen/foto/bozkov/bozkov_soubory/image039.jpg", "https://www.soupispamatek.com/okres_plzen/foto/bozkov/bozkov_soubory/image040.jpg", "https://www.soupispamatek.com/okres_plzen/foto/bozkov/bozkov_soubory/image041.jpg", "https://www.soupispamatek.com/okres_plzen/foto/bozkov/bozkov_soubory/image042.jpg", "https://www.soupispamatek.com/okres_plzen/foto/bozkov/bozkov_soubory/image043.jpg"]
+---
+Soupis památek obce Božkov, bývalý politický okres Plzeň Kód CZ Božkov ( Boschkau ) Kaplička … Kaplička P.Marie Nad vsí Usedlost č.p. 8 … Usedlost č.p. 11 … Usedlost č.p. 12 … Usedlost č.p. 36 … Usedlost č.p. 37 … Usedlost č.p. 38 … Usedlost č.p. 52 … Usedlost č.p. 57 … Usedlost č.p. 67 … Usedlost č.p. 152/90 1905 Zpět na okres Panství Politický okres Plzeň, s.o. Plzeň 1942 Část města Plzeň 1961 Okres Plzeň 2003 Pověřený městský úřad Historie obce VPZ První písemná zmínka o obci pochází z roku 1338 Rok obyv. domů 1850 1927 2135 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Jaromír Lenoch © Aktualizace 19.6.2022

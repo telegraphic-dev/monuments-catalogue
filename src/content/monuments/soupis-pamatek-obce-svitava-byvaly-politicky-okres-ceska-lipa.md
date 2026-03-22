@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce svitava, bývalý politický okres Česká Lípa"
+slug: "soupis-pamatek-obce-svitava-byvaly-politicky-okres-ceska-lipa"
+sourceUrl: "https://www.soupispamatek.com/okres_ceskalipa/foto/svitava/svitava.htm"
+sourcePath: "pages/01585-okres_ceskalipa-foto-svitava-svitava.htm.html"
+district: "ceskalipa"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 11
+images: ["https://www.soupispamatek.com/okres_ceskalipa/foto/svitava/svitava_soubory/image003.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/svitava/svitava_soubory/image005.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/svitava/svitava_soubory/image025.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/svitava/svitava_soubory/image026.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/svitava/svitava_soubory/image027.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/svitava/svitava_soubory/image028.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/svitava/svitava_soubory/image029.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/svitava/svitava_soubory/image030.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/svitava/svitava_soubory/image031.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/svitava/svitava_soubory/image032.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/svitava/svitava_soubory/image033.jpg"]
+---
+Soupis památek obce svitava, bývalý politický okres Česká Lípa Kód CZ Svitava ( Zwitte ) Osada: Záhořín [Kaplička Nanebevzetí P.Marie ] 1725, zbořena 1925 Kaplička Nanebevzetí P.Marie 1925 nedaleko původní kaple Výklenková kaplička Ve skále Socha sv.Jana Nepomuckého U cesty na Sloup Železný kříž Zv.Neugebauerův Reliéf Kalvárie Na skále Dům Patrový s pavlačí Dům Patrový s pavlačí Zpět na okres Panství Politický okres Česká Lípa, s.o. Bor u České Lípy 1961 Okres Česká Lípa 2003 Pověřený městský úřad Část obce Cvikov Historie obce První zprávy dosvědčující existenci vesničky pochází z roku 1525. Rok obyv. domů 1850 1927 228 N 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Kód CZ Záhořín ( Sohr ) Jaromír Lenoch © Ak tualizace 21.6.2021

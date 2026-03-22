@@ -1,0 +1,11 @@
+---
+title: "Památky obce Dolní Vernéřovice, bývalý politický okres Broumov."
+slug: "pamatky-obce-dolni-vernerovice-byvaly-politicky-okres-broumov"
+sourceUrl: "https://www.soupispamatek.com/okres_broumov/foto/dolni_vernerovice/dolni_vernerovice.htm"
+sourcePath: "pages/01403-okres_broumov-foto-dolni_vernerovice-dolni_vernerovice.htm.html"
+district: "broumov"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 12
+images: ["https://www.soupispamatek.com/okres_broumov/foto/dolni_vernerovice/dolni_vernerovice_soubory/image006.jpg", "https://www.soupispamatek.com/okres_broumov/foto/dolni_vernerovice/dolni_vernerovice_soubory/image007.jpg", "https://www.soupispamatek.com/okres_broumov/foto/dolni_vernerovice/dolni_vernerovice_soubory/image028.jpg", "https://www.soupispamatek.com/okres_broumov/foto/dolni_vernerovice/dolni_vernerovice_soubory/image029.jpg", "https://www.soupispamatek.com/okres_broumov/foto/dolni_vernerovice/dolni_vernerovice_soubory/image030.jpg", "https://www.soupispamatek.com/okres_broumov/foto/dolni_vernerovice/dolni_vernerovice_soubory/image031.jpg", "https://www.soupispamatek.com/okres_broumov/foto/dolni_vernerovice/dolni_vernerovice_soubory/image032.jpg", "https://www.soupispamatek.com/okres_broumov/foto/dolni_vernerovice/dolni_vernerovice_soubory/image033.jpg", "https://www.soupispamatek.com/okres_broumov/foto/dolni_vernerovice/dolni_vernerovice_soubory/image034.jpg", "https://www.soupispamatek.com/okres_broumov/foto/dolni_vernerovice/dolni_vernerovice_soubory/image035.jpg", "https://www.soupispamatek.com/okres_broumov/foto/dolni_vernerovice/dolni_vernerovice_soubory/image008.jpg", "https://www.soupispamatek.com/okres_broumov/foto/dolni_vernerovice/dolni_vernerovice_soubory/image009.jpg"]
+---
+Památky obce Dolní Vernéřovice, bývalý politický okres Broumov. Kód CZ 2942 Dolní Vernéřovice ( Unter Wernersdorf ) Dům č.ev.22 … Dům č.ev.23 … Dům č.ev.32 … Dům č.ev.34 … Dům č.ev.37 … Dům č.ev.125 … Dům č.p. 86 … Dům č.p. 94 … Dům č.p. 104 … Dům č.p. 105 … Zpět na okres Panství Politický okres Broumov, s.o.Teplice n.Metují 1961 Okres Trutnov 2003 Pověřený městský úřad Část Jívky Historie obce 2005 VPZ Rok obyv . domů 1850 1927 333 N 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice čsl , 1927 C) cs.wikipedia.org Jaromír Lenoch © Aktualizace 3.1.2021

@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Loubí, bývalý politický okres Česká Lípa"
+slug: "soupis-pamatek-obce-loubi-byvaly-politicky-okres-ceska-lipa"
+sourceUrl: "https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi.htm"
+sourcePath: "pages/01604-okres_ceskalipa-foto-loubi-loubi.htm.html"
+district: "ceskalipa"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 15
+images: ["https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi_soubory/image007.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi_soubory/image009.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi_soubory/image011.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi_soubory/image013.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi_soubory/image015.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi_soubory/image017.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi_soubory/image019.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi_soubory/image021.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi_soubory/image023.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi_soubory/image025.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi_soubory/image027.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi_soubory/image029.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi_soubory/image030.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi_soubory/image031.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/loubi/loubi_soubory/image046.jpg"]
+---
+Soupis památek obce Loubí, bývalý politický okres Česká Lípa Kód CZ Loubí ( Lauben ) Kaplička 1927 Železný kříž … Hrad Loubí Severovýchodně od obce drobné pozůstatky ze 13.stol . Dům … Dům č.p . … Dům č.p . … Dům č.p . … Dům č.p . … Dům č.p . … Dům č.p . … Dům č.p . … Vodojem … Zpět na okres Panství Politický okres Česká Lípa, s.o. Bor u České Lípy 1961 Okres Česká Lípa 2003 Pověřený městský úřad Část městečka Holany Historie obce Rok obyv. domů 1850 1927 234 N 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Jaromír Lenoch © Aktualizace 24.6.2021

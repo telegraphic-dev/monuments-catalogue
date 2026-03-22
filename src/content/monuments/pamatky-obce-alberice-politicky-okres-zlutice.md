@@ -1,0 +1,11 @@
+---
+title: "Památky obce Albeřice, politický okres Žlutice"
+slug: "pamatky-obce-alberice-politicky-okres-zlutice"
+sourceUrl: "https://www.soupispamatek.com/okres_zlutice/foto/alberice/alberice.htm"
+sourcePath: "pages/01206-okres_zlutice-foto-alberice-alberice.htm.html"
+district: "zlutice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 3
+images: ["https://www.soupispamatek.com/okres_zlutice/foto/alberice/alberice_soubory/image004.jpg", "https://www.soupispamatek.com/okres_zlutice/foto/alberice/alberice_soubory/image002.jpg", "https://www.soupispamatek.com/okres_zlutice/foto/alberice/alberice_soubory/image003.jpg"]
+---
+Památky obce Albeřice, politický okres Žlutice Kód CZ [ Albeřice ] ( Alberitz ) [Kaple P.Marie Pomocné] Zdroj B) Původní barokní obecní kaple Panny Marie Pomocnice Křesťanů (Maria Hilfe der Christen ) byla postavena v roce 1710 na bývalé návsi uprostřed dnes částečně zaniklé vsi Albeřice ( Alberitz ) ve Vojenském újezdu Hradiště. Roku 1713 byla kaple rozšířena a zvětšena. V roce 1919 však byla nahrazena novostavbou kaple se zvonem. Slavnostní vysvěcení nové kaple poté proběhlo dne 14. září 1919. Obraz Panny Patrie daroval pro kapli Wenzel Skalla . Někdy po začlenění obce do nově vzniklého Vojenského újezdu Hradiště na počátku padesátých let 20. století však byla kaple spolu s větší částí vsi zbořena. [Kašna] Zdroj B) U zámku, zbytky [Tvrz] Zdroj B) Zanikla po 1590. V průběhu kolonizace území někdy ve 13. či 14. století. První písemná zmínka o vsi pochází z roku 1378, kdy císař Karel IV. koupil v tomto kraji několik statků, mezi kterými byl i statek Swacha z Albeřic . Jeho predikát naznačuje možnost existence středověkého panského sídla, na kterém patrně sídlil. Swachův statek poté král 1. září 1378 propůjčil jako léno Borešovi z Rýzmburka . V roce 1486 však patřila ves již Jindřichovi z Plavna a Albeřice ležely ve služebném lénu hradu Hungerberg . Albeřice střídaly poměrně často své držitele, jsou zmiňovány také v listině z roku 1508, kdy paní Anna z Albeřic prodávala 11. května svůj dům na pražské Malé Straně. Anna z Albeřic byla posledním držitelem, který se psal s predikátem po vsi. Koncem 16. století byla ves přičleněna k panství Verušičky, jehož centrum leželo jen 3 ki...

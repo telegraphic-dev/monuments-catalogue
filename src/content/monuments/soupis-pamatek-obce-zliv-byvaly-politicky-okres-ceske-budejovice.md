@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Zliv, bývalý politický okres České Budějovice"
+slug: "soupis-pamatek-obce-zliv-byvaly-politicky-okres-ceske-budejovice"
+sourceUrl: "https://www.soupispamatek.com/okres_ceskebudejovice/foto/zliv/zliv.htm"
+sourcePath: "pages/01820-okres_ceskebudejovice-foto-zliv-zliv.htm.html"
+district: "ceskebudejovice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 12
+images: ["https://www.soupispamatek.com/okres_ceskebudejovice/foto/zliv/zliv_soubory/image003.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/zliv/zliv_soubory/image005.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/zliv/zliv_soubory/image027.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/zliv/zliv_soubory/image028.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/zliv/zliv_soubory/image029.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/zliv/zliv_soubory/image030.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/zliv/zliv_soubory/image031.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/zliv/zliv_soubory/image032.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/zliv/zliv_soubory/image006.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/zliv/zliv_soubory/image007.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/zliv/zliv_soubory/image008.gif", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/zliv/zliv_soubory/image036.jpg"]
+---
+Soupis památek obce Zliv, bývalý politický okres České Budějovice Kód CZ Zliv Osada: Zálužice Kostel sv.Václava Neogotický Socha sv.Jana Nepomuckého 1724 na mostě Kamenný kříž U kaple Socha dělníka v šamotce … Památník padlým … Kamenný most Dvouobloukový z 18.stol . Vila Kuklova … Zpět na okres Panství Politický okres České Budějovice, s.o.Hluboká n.Vltavou 1960 město 1961 Okres České Budějovice 2003 Pověřený městský úřad Historie města Nejstarší písemná zmínka pochází z roku 1409 Rok obyv . domů 1850 1927 1429 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Kód CZ Zálužice Výklenková kaplička sv.Barbory 1830 Část obce Pištín První písemná zmínka o vesnici pochází z roku 1490 Jaromír Lenoch © Aktualizace 4.1.2022

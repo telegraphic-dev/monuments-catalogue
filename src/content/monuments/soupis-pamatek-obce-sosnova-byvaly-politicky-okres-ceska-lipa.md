@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Sosnová, bývalý politický okres Česká Lípa"
+slug: "soupis-pamatek-obce-sosnova-byvaly-politicky-okres-ceska-lipa"
+sourceUrl: "https://www.soupispamatek.com/okres_ceskalipa/foto/kynast/kynast.htm"
+sourcePath: "pages/01612-okres_ceskalipa-foto-kynast-kynast.htm.html"
+district: "ceskalipa"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 9
+images: ["https://www.soupispamatek.com/okres_ceskalipa/foto/kynast/kynast_soubory/image002.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/kynast/kynast_soubory/image003.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/kynast/kynast_soubory/image004.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/kynast/kynast_soubory/image005.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/kynast/kynast_soubory/image006.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/kynast/kynast_soubory/image008.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/kynast/kynast_soubory/image010.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/kynast/kynast_soubory/image012.jpg", "https://www.soupispamatek.com/okres_ceskalipa/foto/kynast/kynast_soubory/image013.jpg"]
+---
+Soupis památek obce Sosnová, bývalý politický okres Česká Lípa Kód CZ Sosnová ( Kynast , Künast ) Osada: Lesná, Nový dvůr, Ramš [Kaplička sv.Antonína Paduánského ] 1901, zbořena Hřbitov … Železný kříž Na rozcestí před Peklem Památník zavražděným V koncentračním táboře Schwarzheide při pochodu smrti do Terezína Dům č.p. 27 Kamenný spojený se skálou, pravděpodobně renesanční Zpět na okres Panství Politický okres Česká Lípa, s.o. Bor u České Lípy 1961 Okres Česká Lípa 1980 část města Česká Lípa 1990 samostatná obec 2003 Pověřený městský úřad Historie obce První písemná zmínka o obci pochází z roku 1554 Rok obyv . domů 1850 1927 466 N 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Kód CZ Lesná ( Cukmantl , Zuckmantel ) Výklenková kaplička sv.Jana Nepomuckého Se sochou světce, v Lesné ve skále Kód CZ Ramš ( Ramschen ) Dvůr Ramš Panský dvůr Kód CZ Nový dvůr ( Neuhof ) Nový dvůr Panský dvůr pod hradem Zahrádky, radikálné přestavěn ve stylu podnikatelského baroka na Kozí farmu s ubytováním Jaromír Lenoch © Aktualizace 23.6.2021

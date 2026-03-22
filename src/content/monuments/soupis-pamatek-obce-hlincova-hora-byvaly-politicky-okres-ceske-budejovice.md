@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Hlincová Hora, bývalý politický okres České Budějovice"
+slug: "soupis-pamatek-obce-hlincova-hora-byvaly-politicky-okres-ceske-budejovice"
+sourceUrl: "https://www.soupispamatek.com/okres_ceskebudejovice/foto/hlincova_hora/hlincova_hora.htm"
+sourcePath: "pages/01744-okres_ceskebudejovice-foto-hlincova_hora-hlincova_hora.htm.html"
+district: "ceskebudejovice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 9
+images: ["https://www.soupispamatek.com/okres_ceskebudejovice/foto/hlincova_hora/hlincova_hora_soubory/image007.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/hlincova_hora/hlincova_hora_soubory/image009.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/hlincova_hora/hlincova_hora_soubory/image011.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/hlincova_hora/hlincova_hora_soubory/image013.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/hlincova_hora/hlincova_hora_soubory/image015.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/hlincova_hora/hlincova_hora_soubory/image017.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/hlincova_hora/hlincova_hora_soubory/image003.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/hlincova_hora/hlincova_hora_soubory/image005.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/hlincova_hora/hlincova_hora_soubory/image021.jpg"]
+---
+Soupis památek obce Hlincová Hora, bývalý politický okres České Budějovice Kód CZ Hlincová Hora ( Lincova , Nicova Hora, Pfaffendorf ) Osada: Kodetka Kaplička sv.Jana Nepomuckého Na návsi Železný kříž U studánky u Mrhalů Železný kříž U pastvin Památník Rudoarmějce … Zámeček Lustenek S renesančními sgrafity Dům č.p. 1 Novodobé selské baroko Zpět na okres Panství Politický okres České Budějovice, s.o. Č.Budějovice 1961 Okres České Budějovice 2003 Pověřený městský úřad Historie obce První písemná zmínka o vsi pochází z roku 1398. Rok obyv . domů 1850 1927 128 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Kód CZ Kodetka Novodobá čtvrť rodinných domů Jaromír Lenoch © Aktualizace 2.2.2022

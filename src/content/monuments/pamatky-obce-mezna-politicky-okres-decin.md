@@ -1,0 +1,11 @@
+---
+title: "Památky obce Mezná, politický okres Děčín"
+slug: "pamatky-obce-mezna-politicky-okres-decin"
+sourceUrl: "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna.htm"
+sourcePath: "pages/00708-okres_decin-foto-mezna-mezna.htm.html"
+district: "decin"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 16
+images: ["https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image006.jpg", "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image007.jpg", "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image036.jpg", "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image037.jpg", "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image038.jpg", "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image039.jpg", "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image040.jpg", "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image041.jpg", "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image042.jpg", "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image043.jpg", "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image044.jpg", "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image045.jpg", "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image046.jpg", "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image047.jpg", "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image048.jpg", "https://www.soupispamatek.com/okres_decin/foto/mezna/mezna_soubory/image049.jpg"]
+---
+Památky obce Mezná, politický okres Děčín Kód CZ Mezná ( Stimmersdorf ) Výklenková skalní kaplička U cesty na Růžovou Železný kříž … Boží muka … Památník padlým … Usedlost č.p. 6 … Usedlost č.p. 8 … Usedlost č.p. 17 … Usedlost č.p. 23 … Usedlost č.p. 29 … Usedlost č.p. 31 … Usedlost č.p. 36 … Usedlost č.p. 45 … Usedlost č.p. 73 … Škola … Zpět na okres Panství Politický okres Děčín s.o. Děčín 1961 Okres Děčín 2003 Pověřený městský úřad Část obce Hřensko Historie obce První písemná zmínka o obci pochází z roku 1446 Rok obyv . domů 1850 1927 335 N 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Jaromír Lenoch © Aktualizace 27.4.2021

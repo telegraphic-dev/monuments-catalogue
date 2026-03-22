@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Skoranov, bývalý politický okres Čáslav"
+slug: "soupis-pamatek-obce-skoranov-byvaly-politicky-okres-caslav"
+sourceUrl: "https://www.soupispamatek.com/okres_caslav/foto/skoranov/skoranov.htm"
+sourcePath: "pages/01504-okres_caslav-foto-skoranov-skoranov.htm.html"
+district: "caslav"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 7
+images: ["https://www.soupispamatek.com/okres_caslav/foto/skoranov/skoranov_soubory/image006.jpg", "https://www.soupispamatek.com/okres_caslav/foto/skoranov/skoranov_soubory/image007.jpg", "https://www.soupispamatek.com/okres_caslav/foto/skoranov/skoranov_soubory/image018.jpg", "https://www.soupispamatek.com/okres_caslav/foto/skoranov/skoranov_soubory/image019.jpg", "https://www.soupispamatek.com/okres_caslav/foto/skoranov/skoranov_soubory/image020.jpg", "https://www.soupispamatek.com/okres_caslav/foto/skoranov/skoranov_soubory/image021.jpg", "https://www.soupispamatek.com/okres_caslav/foto/skoranov/skoranov_soubory/image022.jpg"]
+---
+Soupis památek obce Skoranov, bývalý politický okres Čáslav Kód CZ Skoranov Osady: Starý Dvůr, Podhradí Kaplička … Dům č.p. 18 … Dům č.p. 30 … Zpět na okres Panství Politický okres Čáslav, s.o. Čáslav 1961 Okres Chrudim Část města Třemošnice 2003 Pověřený městský úřad Historie obce Rok obyv . domů 1850 1927 643 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Kód CZ Starý Dvůr Zvonička … Kód CZ Podhradí Hrad Lichnice Zdroj C) má tvar pravidelného trojúhelníku o rozměrech 120 × 110 × 80 metrů. 110 metrová východní část byla opatřena bránou s přístupovou cestou a byla chráněna mohutným příkopem s valem. Příkop se táhl i pod jihozápadní 120 metrovou stranou. Severní strana byla chráněna Lovětínskou roklí. V první ( Lichtenburské ) fázi výstavby měl hrad obvodovou hradbu se začleněnou okrouhlou plochostropou obytnou věží na severovýchodním nároží. Kastelologové předpokládají i druhou věž s břitem v jižním nádvoří. Hradby byly opatřeny parkánem, který byl přístupný z hlavní obdélníkové brány. O stavbách uvnitř hradu se toho moc neví, zjištěna byla studna a zbytky obdélníkové stavby v západním nároží (Tomáš Durdík zde předpokládá dokonce třetí věž, obdélníkový donjon ). Hrad pak prošel pozdně gotickou přestavbou. Jaromír Lenoch © Aktualizace 18.3.2021

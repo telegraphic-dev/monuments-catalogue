@@ -1,0 +1,11 @@
+---
+title: "Památky obce Branišov, politický okres Teplá"
+slug: "pamatky-obce-branisov-politicky-okres-tepla"
+sourceUrl: "https://www.soupispamatek.com/okres_tepla/foto/branisov/branisov.htm"
+sourcePath: "pages/00224-okres_tepla-foto-branisov-branisov.htm.html"
+district: "tepla"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 4
+images: ["https://www.soupispamatek.com/okres_tepla/foto/branisov/branisov_soubory/image006.jpg", "https://www.soupispamatek.com/okres_tepla/foto/branisov/branisov_soubory/image009.jpg", "https://www.soupispamatek.com/okres_tepla/foto/branisov/branisov_soubory/image010.jpg", "https://www.soupispamatek.com/okres_tepla/foto/branisov/branisov_soubory/image011.jpg"]
+---
+Památky obce Branišov, politický okres Teplá Kód CZ Branišov (Branischau) Kostel sv.Blažeje Zdroj C) zřícenina barokního poutního kostela na břehu stejnojmenného rybníka pod Třebouňským vrchem u Branišova v okrese Karlovy Vary. Roku 1999 byl prohlášen za kulturní památku. Tepelský klášter založil v roce 1476 rybník pod dnešním kostelem, a to na místě zaniklé klášterní osady či dvora zvaného Janov či Janovec. Barokní novostavbu z let 1732–1733 nechal postavit opat tepelského kláštera Raimund III. na místě staršího zaniklého gotického kostela (dochovány fragmenty architektonických článků). Míval valbovou šindelovou střechu, nad presbytářem se nacházel šestiboký cibulový sanktusník. Kostel vyhořel 20. června 1957 po zásahu bleskem, při požáru bylo zničeno barokní zařízení z 1. poloviny 18. století. Oheň však nezničil klenbu nad presbytářem, ta se zřítila později kvůli absenci údržby. Kostel historicky patřil tepelskému klášteru, koncem 20. století se dostal do majetku města Toužim. Město jej věnovalo Biskupství plzeňskému, od roku 2007 patří občanskému sdružení Cesta z města. Téhož roku byla uvnitř kostela zlikvidována skládka a vykáceny náletové dřeviny. V roce 2008 byly provedeny záchranné práce, o rok později byla zpevněna koruna zdiva. Interiér je přístupný po domluvě nebo při pořádaných akcích. Kolem rybníka se nachází území NATURA 2000 s naučnou stezkou, ke kapli vede odbočka poutní Skokovské a naučné Davidovy stezky. f Lípa malolistá Zdroj E) U kostela Zpět na okres Panství Politický okres Teplá, s.o. Teplá 1961 Okres Část Toužimi 2003 Pověřený městský úřad Historie obc...

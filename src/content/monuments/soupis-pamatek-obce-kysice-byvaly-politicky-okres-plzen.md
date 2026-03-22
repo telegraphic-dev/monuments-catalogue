@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Kyšice, bývalý politický okres Plzeň"
+slug: "soupis-pamatek-obce-kysice-byvaly-politicky-okres-plzen"
+sourceUrl: "https://www.soupispamatek.com/okres_plzen/foto/kysice/kysice.htm"
+sourcePath: "pages/01177-okres_plzen-foto-kysice-kysice.htm.html"
+district: "plzen"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 14
+images: ["https://www.soupispamatek.com/okres_plzen/foto/kysice/kysice_soubory/image003.jpg", "https://www.soupispamatek.com/okres_plzen/foto/kysice/kysice_soubory/image005.jpg", "https://www.soupispamatek.com/okres_plzen/foto/kysice/kysice_soubory/image032.jpg", "https://www.soupispamatek.com/okres_plzen/foto/kysice/kysice_soubory/image033.jpg", "https://www.soupispamatek.com/okres_plzen/foto/kysice/kysice_soubory/image034.jpg", "https://www.soupispamatek.com/okres_plzen/foto/kysice/kysice_soubory/image035.jpg", "https://www.soupispamatek.com/okres_plzen/foto/kysice/kysice_soubory/image036.jpg", "https://www.soupispamatek.com/okres_plzen/foto/kysice/kysice_soubory/image037.jpg", "https://www.soupispamatek.com/okres_plzen/foto/kysice/kysice_soubory/image038.jpg", "https://www.soupispamatek.com/okres_plzen/foto/kysice/kysice_soubory/image039.jpg", "https://www.soupispamatek.com/okres_plzen/foto/kysice/kysice_soubory/image040.jpg", "https://www.soupispamatek.com/okres_plzen/foto/kysice/kysice_soubory/image041.jpg", "https://www.soupispamatek.com/okres_plzen/foto/kysice/kysice_soubory/image042.jpg", "https://www.soupispamatek.com/okres_plzen/foto/kysice/kysice_soubory/image031.jpg"]
+---
+Soupis památek obce Kyšice, bývalý politický okres Plzeň Kód CZ Kyšice Kaplička sv.Vavřince … Kaplička … Železný kříž Na návsi Památník osvobození … Busta Vojtěcha Čipery Na rodném domě, poslanec a senátor 1.republiky Památník M .Jana Husa … Památník padlým … Usedlost č.p. 9 S chlévy Usedlost č.p. 18 S bránou, brankou a sýpkou Usedlost č.p. 34 S bránou z r.1833 , přestavěnou 1944 Usedlost … Zpět na okres Panství Politický okres Plzeň, s.o. Plzeň 1961 Okres Plzeň sever 2007 Okres Plzeň město 2003 Pověřený městský úřad Historie obce První písemná zmínka o obci pochází z roku 1336 Rok obyv . domů 1850 1927 816 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Jaromír Lenoch © Aktualizace 24.6.2022

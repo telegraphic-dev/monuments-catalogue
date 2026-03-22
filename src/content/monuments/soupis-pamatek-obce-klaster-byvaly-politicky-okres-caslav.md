@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Klášter, bývalý politický okres Čáslav"
+slug: "soupis-pamatek-obce-klaster-byvaly-politicky-okres-caslav"
+sourceUrl: "https://www.soupispamatek.com/okres_caslav/foto/klaster/klaster.htm"
+sourcePath: "pages/01537-okres_caslav-foto-klaster-klaster.htm.html"
+district: "caslav"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 4
+images: ["https://www.soupispamatek.com/okres_caslav/foto/klaster/klaster_soubory/image006.jpg", "https://www.soupispamatek.com/okres_caslav/foto/klaster/klaster_soubory/image007.jpg", "https://www.soupispamatek.com/okres_caslav/foto/klaster/klaster_soubory/image002.jpg", "https://www.soupispamatek.com/okres_caslav/foto/klaster/klaster_soubory/image004.jpg"]
+---
+Soupis památek obce Klášter, bývalý politický okres Čáslav Kód CZ Klášter ( Kloster ) Kostel sv.Václava … Benediktinský klášter] Zdroj C) ve 12. století vybudován jeden z největších benediktinských klášterů ve střední Evropě. V roce 1278 byl klášter vypálen vojsky Rudolfa Habsburského a v roce 1421 byl dobyt husitskými vojsky. Klášter byl zrušen roku 1575 a císař Rudolf II. zpustlé budovy s okolními pozemky prodal. Zámek Zdroj C) Na ruinách klášterních budov vznikla nejprve roku 1578 tvrz. V 17. století získali panství Caretto - Milesimové a kolem roku 1689 tu nechal Václav Ferdinand Caretto - Millessimo (po 1659–1740) vystavět zámek. Ten pak byl přestavěn do své nynější barokní podoby podle plánů pražského architekta Jana Josefa Wircha (ten pravděpodobně předpokládal vícekřídlou dispozici, ale realizováno bylo pouze jedno křídlo) Zámecký park Zdroj C) Za budovou zámku je na jihozápadě rozlehlý park, původně navržený jako francouzská zahrada s ornamentálními záhony; v současné době převládá volnější krajinářská podoba. V severním rohu parku u jeho ohradní zdi býval barokní zahradní pavilon, z něhož se dochovalo členěné průčelí s atikovým štítem; původní pavilon byl přestavěn na ubytovnu. Na park navazuje zámecká obora, založená kolem poloviny 18. století. Zaujímá plochu asi 11 ha a prochází jí alej starých dubů, která končí na hrázi rybníka. Zpět na okres Panství Politický okres Čáslav, s.o. Habry 1961 Okres Havlíčkův Brod Část obce Vilémov 2003 Pověřený městský úřad Historie obce První písemná zmínka o obci pochází z roku 1119 Rok obyv . domů 1850 1927 546 1930 1947 1961 1...

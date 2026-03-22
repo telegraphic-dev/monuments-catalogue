@@ -1,0 +1,11 @@
+---
+title: "Památky obce Hřivínov, politický okres Žlutice"
+slug: "pamatky-obce-hrivinov-politicky-okres-zlutice"
+sourceUrl: "https://www.soupispamatek.com/okres_zlutice/foto/hrivinov/hrivinov.htm"
+sourcePath: "pages/01220-okres_zlutice-foto-hrivinov-hrivinov.htm.html"
+district: "zlutice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 4
+images: ["https://www.soupispamatek.com/okres_zlutice/foto/hrivinov/hrivinov_soubory/image003.jpg", "https://www.soupispamatek.com/okres_zlutice/foto/hrivinov/hrivinov_soubory/image005.jpg", "https://www.soupispamatek.com/okres_zlutice/foto/hrivinov/hrivinov_soubory/image012.jpg", "https://www.soupispamatek.com/okres_zlutice/foto/hrivinov/hrivinov_soubory/image013.jpg"]
+---
+Památky obce Hřivínov, politický okres Žlutice Kód CZ Hřivínov ( Mokowitz ) Kaple Nanebevzetí P.Marie Zdroj D) 1918, nazývaná Duchtská kaple ( Duchta -Kapelle) patřila k usedlosti čp . 2 zvané Duchta Franze Viehmanna [Kaple sv.Jana Nepomuckého] Zdroj D) z první poloviny 19. století stávala na bývalé okrouhlé návsi na pravém břehu potoka Malá Trasovka (Klein Trasovska Bach ) uprostřed vsi [Kaple sv.Anny ] Zdroj D) stávala při silnici na Záhoří severovýchodně od vsi , zbořena před1966 [Železný kříž] Zdroj D) z 19. století, nazývaný Summerův kříž ( Summer - Kreuz ), stával při bývalé cestě na Herstošice v polích západně od vsi [Železný kříž] Zdroj D) z 19. století, nazývaný Breicherský kříž ( Breicher - Kreuz ), který patřil k usedlosti čp . 7 zvané Breicher Wenzela Gieba , stával na rozcestí při bývalé cestě k Záhoří v polích východně od vsi [Železný kříž] Zdroj D) z 19. století, nazývaný Wenlerský kříž ( Wenl - Kreuz ), stával u bývalé usedlosti čp . 11 zvané Wenler Aloise Müllera uprostřed vsi Mlýn Zdroj D) Č.p.9 Zpět na okres Panství Politický okres Žlutice, s.o. Bochov 1961 Okres Karlovy Vary Část Verušiček 2003 Pověřený městský úřad Historie obce Zdroj D) Ves Hřivínov je v pramenech uváděna od 15. století po různými názvy. Podle Augusta Sedláčka se zde nacházel někdejší vladyčí statek. Ve středověku byla ves rozdělena na několik částí. Zda zde vzniklo panské sídlo, není jisté. Část vsi u dvora zvaného Hummelhof , existujícího již před rokem 1532, jehož majitelé se střídali, patřila ke zboží Vahaneč , se kterým byla připojen roku 1623 k panství Údrč , u kterého poté zůsta...
