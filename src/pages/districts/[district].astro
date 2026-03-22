@@ -1,33 +1,109 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
-import { getCanonicalMonumentPath, getMonumentsSorted } from '../../lib/content';
+import { byTitle, normalizeDistrict, toMonumentCard } from '../../lib/monuments';
 
 export async function getStaticPaths() {
-  const monuments = await getMonumentsSorted();
-  const districts = [...new Set(monuments.map((entry) => entry.data.district).filter((district) => typeof district === 'string'))];
+  const entries = await getCollection('monuments');
+  const districtSet = new Set<string>();
 
-  return districts.map((district) => ({
-    params: { district },
-    props: {
-      district,
-      monuments: monuments.filter((entry) => entry.data.district === district),
-    },
-  }));
+  for (const entry of entries) {
+    const district = normalizeDistrict(entry.data.district);
+    if (district) {
+      districtSet.add(district);
+    }
+  }
+
+  return [...districtSet]
+    .sort((a, b) => a.localeCompare(b, 'cs'))
+    .map((district) => ({ params: { district } }));
 }
 
-const { district, monuments } = Astro.props;
+const { district } = Astro.params;
+if (!district) {
+  throw new Error('District route requires a district parameter.');
+}
+
+const monuments = (await getCollection('monuments'))
+  .map(toMonumentCard)
+  .filter((entry) => entry.district === district)
+  .sort(byTitle);
 ---
 
-<Layout title={`Monuments Catalogue | District ${district}`}>
-  <h1>District: {district}</h1>
-  <p>{monuments.length} monument pages mapped to this district.</p>
-  <ul>
-    {
-      monuments.map((entry) => (
-        <li>
-          <a href={getCanonicalMonumentPath(entry)}>{entry.data.title}</a>
-        </li>
-      ))
-    }
-  </ul>
+<Layout
+  title={`Okres ${district} | Monuments Catalogue`}
+  description={`Výpis památek v okrese ${district}.`}
+>
+  <section class="head">
+    <p class="eyebrow">Okres</p>
+    <h1>{district}</h1>
+    <p>{monuments.length} nalezených položek.</p>
+    <p><a href="/districts/">← Zpět na seznam okresů</a></p>
+  </section>
+
+  <section>
+    <ul class="list">
+      {
+        monuments.map((monument) => (
+          <li>
+            <h2><a href={monument.href}>{monument.title}</a></h2>
+            <p>{monument.excerpt}...</p>
+            <p class="meta">Fotografií: {monument.imageCount}</p>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
 </Layout>
+
+<style>
+  section {
+    margin-bottom: 1rem;
+  }
+
+  .head,
+  .list li {
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--surface);
+  }
+
+  .head {
+    padding: 1rem 1.1rem;
+  }
+
+  .eyebrow,
+  .meta {
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.78rem;
+    color: var(--muted);
+  }
+
+  h1 {
+    font-size: clamp(1.7rem, 5vw, 2.6rem);
+    margin: 0.35rem 0;
+  }
+
+  .list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.75rem;
+  }
+
+  .list li {
+    padding: 0.9rem 1rem;
+    box-shadow: var(--shadow);
+  }
+
+  h2 {
+    font-size: 1.15rem;
+    margin-bottom: 0.45rem;
+  }
+
+  .list p {
+    color: var(--muted);
+  }
+</style>

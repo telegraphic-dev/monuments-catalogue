@@ -1,22 +1,216 @@
 ---
 interface Props {
   title: string;
+  description?: string;
 }
 
-const { title } = Astro.props;
+const { title, description = 'Historický katalog českých památek.' } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="cs">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={description} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Manrope:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
     <title>{title}</title>
   </head>
   <body>
+    <div class="halo"></div>
+    <header class="site-header">
+      <a class="brand" href="/">
+        <span aria-hidden="true">Monuments</span>
+        <strong>Catalogue</strong>
+      </a>
+      <nav aria-label="Hlavní navigace">
+        <a href="/">Domů</a>
+        <a href="/monuments/">Památky</a>
+        <a href="/districts/">Okresy</a>
+      </nav>
+    </header>
+
     <main>
       <slot />
     </main>
+
+    <footer class="site-footer">
+      <p>Monuments Catalogue · obsah převzat ze soupispamatek.com</p>
+    </footer>
   </body>
 </html>
+
+<style is:global>
+  :root {
+    --bg: #f5f1ea;
+    --bg-alt: #fffaf4;
+    --text: #1f2226;
+    --muted: #53565c;
+    --surface: rgba(255, 252, 247, 0.88);
+    --surface-strong: #ffffff;
+    --line: rgba(55, 53, 50, 0.15);
+    --accent: #1f6b5f;
+    --accent-2: #ad6130;
+    --radius: 1.1rem;
+    --shadow: 0 12px 36px rgba(24, 33, 39, 0.08);
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html,
+  body {
+    margin: 0;
+    min-height: 100%;
+    background:
+      radial-gradient(circle at 16% 10%, rgba(31, 107, 95, 0.2), transparent 44%),
+      radial-gradient(circle at 85% 4%, rgba(173, 97, 48, 0.16), transparent 40%),
+      linear-gradient(170deg, var(--bg) 0%, var(--bg-alt) 100%);
+    color: var(--text);
+    font-family: 'Manrope', system-ui, -apple-system, Segoe UI, sans-serif;
+    line-height: 1.6;
+  }
+
+  a {
+    color: var(--accent);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: 'Fraunces', Georgia, serif;
+    line-height: 1.15;
+    letter-spacing: 0.01em;
+    margin: 0;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  .halo {
+    position: fixed;
+    inset: -25vh auto auto -12vw;
+    width: 52vw;
+    height: 52vw;
+    border-radius: 999px;
+    opacity: 0.4;
+    background: radial-gradient(circle, rgba(173, 97, 48, 0.18), transparent 70%);
+    pointer-events: none;
+    z-index: -1;
+  }
+
+  .site-header,
+  .site-footer,
+  main {
+    width: min(1120px, calc(100% - 2.4rem));
+    margin-inline: auto;
+  }
+
+  .site-header {
+    position: sticky;
+    top: 0.8rem;
+    z-index: 20;
+    margin-top: 0.8rem;
+    margin-bottom: 1.1rem;
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: rgba(255, 250, 242, 0.78);
+    backdrop-filter: blur(8px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .brand {
+    text-decoration: none;
+    color: inherit;
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.35rem;
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  .brand strong {
+    font-family: 'Fraunces', Georgia, serif;
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: 1.15rem;
+  }
+
+  nav {
+    display: inline-flex;
+    gap: 0.8rem;
+    flex-wrap: wrap;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: var(--text);
+    font-weight: 600;
+    font-size: 0.95rem;
+    border: 1px solid transparent;
+    border-radius: 999px;
+    padding: 0.3rem 0.8rem;
+    transition: border-color 140ms ease, background-color 140ms ease;
+  }
+
+  nav a:hover,
+  nav a:focus-visible {
+    background: var(--surface-strong);
+    border-color: var(--line);
+    outline: none;
+  }
+
+  main {
+    padding-bottom: 3.2rem;
+    animation: rise 380ms ease both;
+  }
+
+  .site-footer {
+    border-top: 1px solid var(--line);
+    padding: 1rem 0 2.2rem;
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+
+  @keyframes rise {
+    from {
+      transform: translateY(10px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
+  @media (max-width: 720px) {
+    .site-header {
+      border-radius: 1.1rem;
+      position: static;
+      margin-top: 0.6rem;
+    }
+
+    .brand {
+      font-size: 0.82rem;
+    }
+
+    nav {
+      width: 100%;
+      justify-content: flex-start;
+    }
+  }
+</style>
