@@ -19,6 +19,7 @@ Optional flags:
 - `--max-pages <n>`: crawl cap (default `2500`)
 - `--delay-ms <n>`: delay between requests in milliseconds (default `80`)
 - `--keep-existing`: do not wipe previous `data/raw/soupispamatek` and `src/content/monuments` output
+- `--dry-run`: crawl/analyze only, do not write output files
 
 Example:
 
@@ -42,5 +43,6 @@ npm run import:soupispamatek -- --max-pages 600 --delay-ms 120
 ## Notes
 
 - The source site is legacy HTML (Word-exported pages, mixed encodings). The importer auto-detects charset from HTTP/meta and decodes accordingly.
+- Crawl URLs are normalized (fragment-stripped) to avoid duplicate fetches of the same page variant.
 - Monument pages are selected with a conservative heuristic (leaf-like HTML pages with substantial text) to avoid directory/index/frame files.
 - Re-run imports whenever source content changes.
