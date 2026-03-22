@@ -14,6 +14,7 @@ function parseArgs(argv) {
     maxPages: 2500,
     delayMs: 80,
     keepExisting: false,
+    dryRun: false,
   };
 
   for (let i = 0; i < argv.length; i += 1) {
@@ -29,6 +30,8 @@ function parseArgs(argv) {
       i += 1;
     } else if (part === '--keep-existing') {
       args.keepExisting = true;
+    } else if (part === '--dry-run') {
+      args.dryRun = true;
     }
   }
 
@@ -57,6 +60,12 @@ function slugify(input) {
 
 function dedupe(arr) {
   return [...new Set(arr)];
+}
+
+function normalizeCrawlUrl(rawUrl) {
+  const url = new URL(rawUrl);
+  url.hash = '';
+  return url.toString();
 }
 
 function normalizeWhitespace(text) {
@@ -96,7 +105,7 @@ function extractLinks(html, pageUrl) {
 
     try {
       const absolute = new URL(raw, pageUrl);
-      links.push(absolute.toString());
+      links.push(normalizeCrawlUrl(absolute.toString()));
     } catch {
       // Ignore malformed URLs in legacy HTML.
     }
@@ -206,16 +215,18 @@ function buildMarkdown(entry) {
 
 async function main() {
   const args = parseArgs(process.argv.slice(2));
-  const baseUrl = new URL(args.baseUrl).toString();
+  const baseUrl = normalizeCrawlUrl(new URL(args.baseUrl).toString());
   const baseHost = new URL(baseUrl).host;
 
-  if (!args.keepExisting) {
+  if (!args.keepExisting && !args.dryRun) {
     await rm(RAW_BASE_DIR, { recursive: true, force: true });
     await rm(CONTENT_DIR, { recursive: true, force: true });
   }
 
-  await mkdir(path.join(RAW_BASE_DIR, 'pages'), { recursive: true });
-  await mkdir(CONTENT_DIR, { recursive: true });
+  if (!args.dryRun) {
+    await mkdir(path.join(RAW_BASE_DIR, 'pages'), { recursive: true });
+    await mkdir(CONTENT_DIR, { recursive: true });
+  }
 
   const queue = [baseUrl];
   const visited = new Set();
@@ -262,7 +273,9 @@ async function main() {
     const filenameBase = sanitizeFileName(new URL(current).pathname.replace(/^\//, '') || 'home');
     const uniqueBase = `${String(pages.length + 1).padStart(5, '0')}-${filenameBase}`;
 
-    await writeFile(path.join(RAW_BASE_DIR, 'pages', `${uniqueBase}.html`), bodyText);
+    if (!args.dryRun) {
+      await writeFile(path.join(RAW_BASE_DIR, 'pages', `${uniqueBase}.html`), bodyText);
+    }
 
     pages.push({
       url: current,
@@ -306,7 +319,9 @@ async function main() {
     })),
   };
 
-  await writeFile(path.join(RAW_BASE_DIR, 'manifest.json'), `${JSON.stringify(manifest, null, 2)}\n`);
+  if (!args.dryRun) {
+    await writeFile(path.join(RAW_BASE_DIR, 'manifest.json'), `${JSON.stringify(manifest, null, 2)}\n`);
+  }
 
   const usedSlugs = new Set();
 
@@ -332,7 +347,9 @@ async function main() {
       description: summary,
     });
 
-    await writeFile(path.join(CONTENT_DIR, `${slug}.md`), markdown);
+    if (!args.dryRun) {
+      await writeFile(path.join(CONTENT_DIR, `${slug}.md`), markdown);
+    }
   }
 
   const resultLines = [
@@ -340,8 +357,9 @@ async function main() {
     `Visited pages: ${visited.size}`,
     `Fetched pages: ${pages.length}`,
     `Monument entries generated: ${monumentCandidates.length}`,
-    `Raw manifest: ${path.join(RAW_BASE_DIR, 'manifest.json')}`,
-    `Content output: ${CONTENT_DIR}`,
+    `Dry run: ${args.dryRun ? 'yes' : 'no'}`,
+    `Raw manifest: ${args.dryRun ? '(skipped in dry-run)' : path.join(RAW_BASE_DIR, 'manifest.json')}`,
+    `Content output: ${args.dryRun ? '(skipped in dry-run)' : CONTENT_DIR}`,
   ];
 
   console.log(resultLines.join('\n'));
