@@ -1,0 +1,11 @@
+---
+title: "Památky obce Prácheň, politický okres Děčín"
+slug: "pamatky-obce-prachen-politicky-okres-decin"
+sourceUrl: "https://www.soupispamatek.com/okres_decin/foto/selty/selty.htm"
+sourcePath: "pages/00741-okres_decin-foto-selty-selty.htm.html"
+district: "decin"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 13
+images: ["https://www.soupispamatek.com/okres_decin/foto/selty/selty_soubory/image003.jpg", "https://www.soupispamatek.com/okres_decin/foto/selty/selty_soubory/image005.jpg", "https://www.soupispamatek.com/okres_decin/foto/selty/selty_soubory/image006.jpg", "https://www.soupispamatek.com/okres_decin/foto/selty/selty_soubory/image007.jpg", "https://www.soupispamatek.com/okres_decin/foto/selty/selty_soubory/image008.jpg", "https://www.soupispamatek.com/okres_decin/foto/selty/selty_soubory/image009.jpg", "https://www.soupispamatek.com/okres_decin/foto/selty/selty_soubory/image010.jpg", "https://www.soupispamatek.com/okres_decin/foto/selty/selty_soubory/image011.jpg", "https://www.soupispamatek.com/okres_decin/foto/selty/selty_soubory/image012.jpg", "https://www.soupispamatek.com/okres_decin/foto/selty/selty_soubory/image013.jpg", "https://www.soupispamatek.com/okres_decin/foto/selty/selty_soubory/image014.jpg", "https://www.soupispamatek.com/okres_decin/foto/selty/selty_soubory/image015.jpg", "https://www.soupispamatek.com/okres_decin/foto/selty/selty_soubory/image016.jpg"]
+---
+Památky obce Prácheň, politický okres Děčín Kód CZ [ Šelty ] ( Schelten ) Osada: Emanuelsberg , Prácheň Zpět na okres Panství Politický okres Děčín s.o. Česká Kamenice 1961 Okres 2003 Pověřený městský úřad Historie obce Rok obyv . domů 1850 1927 1084 77% N 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Kód CZ … ( Emanuelsberg ) Železný kříž … Kód CZ Prácheň ( Parchen ) Kostel sv.Vavřince 1780-2 Fara 1824 Kaplička sv.Vavřince … Socha P.Marie U Panské skály, v upomínku na mladý pár, který zde umrzl v roce 1739 při noční bouřce Socha sv.Františka z Assisi U č.p. 125 Socha sv.Jana Nepomuckého U č.p. 118, litina, 1882 Železný kříž U č.p. 114 Panská skála Čedičový útvar Část obce Kamenický Šenov Jaromír Lenoch © Aktualizace 20.4.2021

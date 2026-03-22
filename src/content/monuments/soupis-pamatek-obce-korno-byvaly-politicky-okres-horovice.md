@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Korno, bývalý politický okres Hořovice"
+slug: "soupis-pamatek-obce-korno-byvaly-politicky-okres-horovice"
+sourceUrl: "https://www.soupispamatek.com/okres_horovice/foto/korno/korno.htm"
+sourcePath: "pages/00761-okres_horovice-foto-korno-korno.htm.html"
+district: "horovice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 7
+images: ["https://www.soupispamatek.com/okres_horovice/foto/korno/korno_soubory/image006.jpg", "https://www.soupispamatek.com/okres_horovice/foto/korno/korno_soubory/image007.jpg", "https://www.soupispamatek.com/okres_horovice/foto/korno/korno_soubory/image018.jpg", "https://www.soupispamatek.com/okres_horovice/foto/korno/korno_soubory/image019.jpg", "https://www.soupispamatek.com/okres_horovice/foto/korno/korno_soubory/image020.jpg", "https://www.soupispamatek.com/okres_horovice/foto/korno/korno_soubory/image021.jpg", "https://www.soupispamatek.com/okres_horovice/foto/korno/korno_soubory/image022.jpg"]
+---
+Soupis památek obce Korno, bývalý politický okres Hořovice Kód CZ Korno Kaplička … Výklenková kaplička U cesty k Litnímu , trojboká. Nápisy: Směr na Liteň , Vlence : „ L.P. 1941 Bože smiluj se nad lidem naším.“ Směr na Korno : „Tato kaple k cti Panny Marie Pomocnici křesťanů, sv. mučedníků Jana a Pavla a svatého Vojtěcha byla postavena L.P. 1771 nákladem Matěje Jirasa , kováře z Korna a Pavla Kozlíka Jirase , zahradníka z Litně . Posvětil ji P. Martin Salač, administrátor liteňský 28. července toho roku. Hospodine, pomiluj ny .“ Směr k Měňanům : „ L.P. 1941 Dávná bolest postavila + nová žalost obnovila“. Památník padlým Nápis: 1914 1918 1928 / Jaroslav Hušák *1882 †1917 Bedřich Hušák *1886 †1918 Emil Čipera *1894 †1915. / Václav Veselý *1899 †1918 František Hájek *1882 †1914. / VĚNUJE SBOR DOBROVOLNÝCH HASIČŮ. Poznámka: Architektonické provedení pomníku je shodné s pomníkem v Karlštejně. [Tvrz] Od 14 . stol. v horní části obce, 1540 zmíněna jako pustá. Hradiště Na Brdláku … Usedlost č.p. 20 … Zpět na okres Panství Politický okres Hořovice, s.o. Beroun 1961 Okres Beroun 2003 Pověřený městský úřad Historie obce VPZ První písemná zmínka o obci pochází z roku 1360 Rok obyv . domů 1850 1927 221 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Jaromír Lenoch © Aktualizace 8.6.2022

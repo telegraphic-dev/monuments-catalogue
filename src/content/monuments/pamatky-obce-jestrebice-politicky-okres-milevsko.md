@@ -1,0 +1,11 @@
+---
+title: "Památky obce Jestřebice, politický okres Milevsko"
+slug: "pamatky-obce-jestrebice-politicky-okres-milevsko"
+sourceUrl: "https://www.soupispamatek.com/okres_milevsko/foto/jestrebice/jestrebice.htm"
+sourcePath: "pages/00296-okres_milevsko-foto-jestrebice-jestrebice.htm.html"
+district: "milevsko"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 9
+images: ["https://www.soupispamatek.com/okres_milevsko/foto/jestrebice/jestrebice_soubory/image018.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/jestrebice/jestrebice_soubory/image019.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/jestrebice/jestrebice_soubory/image020.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/jestrebice/jestrebice_soubory/image021.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/jestrebice/jestrebice_soubory/image022.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/jestrebice/jestrebice_soubory/image023.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/jestrebice/jestrebice_soubory/image024.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/jestrebice/jestrebice_soubory/image002.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/jestrebice/jestrebice_soubory/image003.jpg"]
+---
+Památky obce Jestřebice, politický okres Milevsko Kód CZ 5952 Jestřebice Kaple Nejsv.Trojice Zdroj C) Na návsi, 2.pol.18.stol. Výklenková kaple sv.Jana Nepomuckého Zdroj C) Severně nad vsí, 1.pol.18.stol. opr.1900 Železný kříž Zdroj C) U silnice na Bernartice , 1898 Železný kříž Zdroj C) U silnice na Bernartice Dům č.p.4 … Dům č.p.13 Zdroj C) … Rozhledna Zdroj C) Na Kupě Zpět na okres Panství Politický okres Milevsko, s.o. Milevsko 1961 Okres Písek 2003 Pověřený městský úřad Část Bernartic Historie obce Zdroj C) V 13. století byla ves majetkem pražského arcibiskupství v Týně nad Vltavou. Ves je uvedena v soupise majetku vltavotýnského panství, který byl zhotovený v roce 1379 na popud arcibiskupa Jana Očka z Vlašimi. Po husitských válkách byla ves v držení Oldřicha z Rožmberka, pak v držení rodu Čábelických . Roku 1601 byla ves společně s ostatním majetkem postoupena k městu Týn nad Vltavou. Rok obyv . domů 1850 1927 362 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org (10.12.2019) Jaromír Lenoch © Aktualizace 10.12.2019

@@ -1,0 +1,11 @@
+---
+title: "Památky obce Javorná, politický okres Teplá"
+slug: "pamatky-obce-javorna-politicky-okres-tepla"
+sourceUrl: "https://www.soupispamatek.com/okres_tepla/foto/javorna/javorna.htm"
+sourcePath: "pages/00194-okres_tepla-foto-javorna-javorna.htm.html"
+district: "tepla"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 11
+images: ["https://www.soupispamatek.com/okres_tepla/foto/javorna/javorna_soubory/image006.jpg", "https://www.soupispamatek.com/okres_tepla/foto/javorna/javorna_soubory/image007.jpg", "https://www.soupispamatek.com/okres_tepla/foto/javorna/javorna_soubory/image025.jpg", "https://www.soupispamatek.com/okres_tepla/foto/javorna/javorna_soubory/image026.jpg", "https://www.soupispamatek.com/okres_tepla/foto/javorna/javorna_soubory/image027.jpg", "https://www.soupispamatek.com/okres_tepla/foto/javorna/javorna_soubory/image028.jpg", "https://www.soupispamatek.com/okres_tepla/foto/javorna/javorna_soubory/image029.jpg", "https://www.soupispamatek.com/okres_tepla/foto/javorna/javorna_soubory/image030.jpg", "https://www.soupispamatek.com/okres_tepla/foto/javorna/javorna_soubory/image031.jpg", "https://www.soupispamatek.com/okres_tepla/foto/javorna/javorna_soubory/image032.jpg", "https://www.soupispamatek.com/okres_tepla/foto/javorna/javorna_soubory/image033.jpg"]
+---
+Památky obce Javorná, politický okres Teplá Kód CZ Javorná ( Gabhorn ) [Kostel sv.Martina ] Pozdně gotický či renesanční. Vyhořel 1888, následně rozebírán. Kostel sv.Jana Nepomuckého U zámku, 1729-30 [Zvonička] Dřevěná na místě kostela, zlikvidovaná po roce 1945 Fara … [Kaplička] 1775, u silnice na Bochov , zbořena 1976 Socha Na průčelí kostela sv.Jana Nepomuckého Socha Na průčelí zámku Socha sv.Jana Nepomuckého Na průčelí zámku nad vchodem Železný kříž Před kostelem sv.Jana Nepomuckého Erb arcidiecéze Na průčelí kostela sv.Jana Nepomuckého Zámek Západně od vsi Zpět na okres Panství Politický okres Teplá, s.o. Bečov nad Teplou 1961 Okres Karlovy Vary 2003 Pověřený městský úřad Část obce Bochov Historie obce První písemná zmínka o vesnici pochází z roku 1366 Rok obyv . domů 1850 1927 461 N 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice čsl , 1927 C) cs.wikipedia.org Jaromír Lenoch © Aktualizace 14.4.2022

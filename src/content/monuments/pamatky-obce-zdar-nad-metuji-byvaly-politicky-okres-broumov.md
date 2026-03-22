@@ -1,0 +1,11 @@
+---
+title: "Památky obce Žďár nad Metují, bývalý politický okres Broumov."
+slug: "pamatky-obce-zdar-nad-metuji-byvaly-politicky-okres-broumov"
+sourceUrl: "https://www.soupispamatek.com/okres_broumov/foto/zdarnadmetuji/zdarnadmetuji.htm"
+sourcePath: "pages/01399-okres_broumov-foto-zdarnadmetuji-zdarnadmetuji.htm.html"
+district: "broumov"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 10
+images: ["https://www.soupispamatek.com/okres_broumov/foto/zdarnadmetuji/zdarnadmetuji_soubory/image003.jpg", "https://www.soupispamatek.com/okres_broumov/foto/zdarnadmetuji/zdarnadmetuji_soubory/image005.jpg", "https://www.soupispamatek.com/okres_broumov/foto/zdarnadmetuji/zdarnadmetuji_soubory/image024.jpg", "https://www.soupispamatek.com/okres_broumov/foto/zdarnadmetuji/zdarnadmetuji_soubory/image025.jpg", "https://www.soupispamatek.com/okres_broumov/foto/zdarnadmetuji/zdarnadmetuji_soubory/image006.jpg", "https://www.soupispamatek.com/okres_broumov/foto/zdarnadmetuji/zdarnadmetuji_soubory/image007.jpg", "https://www.soupispamatek.com/okres_broumov/foto/zdarnadmetuji/zdarnadmetuji_soubory/image017.jpg", "https://www.soupispamatek.com/okres_broumov/foto/zdarnadmetuji/zdarnadmetuji_soubory/image028.jpg", "https://www.soupispamatek.com/okres_broumov/foto/zdarnadmetuji/zdarnadmetuji_soubory/image029.jpg", "https://www.soupispamatek.com/okres_broumov/foto/zdarnadmetuji/zdarnadmetuji_soubory/image030.jpg"]
+---
+Památky obce Žďár nad Metují, bývalý politický okres Broumov. Kód CZ 19308 Ždár nad Metují ( Brand an der Mettau ) Osada: Ostaš Socha Nejsv.Trojice V obci, konec 19.stol. Kamenný kříž Se světci, směrem k Ostaši , 1892 Kamenný kříž V zahradě č.p. 4, 1796 Železný kříž … Železný kříž … Hrad Vlčinec Zříceniny Zpět na okres Panství Politický okres Broumov, s.o.Police n.Metují 1961 Okres Náchod 2003 Pověřený městský úřad Historie obce První písemná zmínka o obci pochází z roku 1406 Rok obyv . domů 1850 1927 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice čsl , 1927 2) Poche E., Umělecké památky Čech, 1977-82 (Žďár) C) cs.wikipedia.org Kód CZ Ostaš Kaple sv.Kříže Obnovena 1873 Boží muka … Památníček Miroslava Šmída 9 – 7 – 0 3 – 0 - 0 Jaromír Lenoch © Ak tualizace 2.1.2021 Předchozí editace: 1.5.2012

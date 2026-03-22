@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Záluží u Třemošné, bývalý politický okres Plzeň"
+slug: "soupis-pamatek-obce-zaluzi-u-tremosne-byvaly-politicky-okres-plzen"
+sourceUrl: "https://www.soupispamatek.com/okres_plzen/foto/zaluzi_u_trmosne/zaluzi_u_tremosne.htm"
+sourcePath: "pages/01202-okres_plzen-foto-zaluzi_u_trmosne-zaluzi_u_tremosne.htm.html"
+district: "plzen"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 11
+images: ["https://www.soupispamatek.com/okres_plzen/foto/zaluzi_u_trmosne/zaluzi_u_tremosne_soubory/image003.jpg", "https://www.soupispamatek.com/okres_plzen/foto/zaluzi_u_trmosne/zaluzi_u_tremosne_soubory/image005.jpg", "https://www.soupispamatek.com/okres_plzen/foto/zaluzi_u_trmosne/zaluzi_u_tremosne_soubory/image016.jpg", "https://www.soupispamatek.com/okres_plzen/foto/zaluzi_u_trmosne/zaluzi_u_tremosne_soubory/image017.jpg", "https://www.soupispamatek.com/okres_plzen/foto/zaluzi_u_trmosne/zaluzi_u_tremosne_soubory/image018.jpg", "https://www.soupispamatek.com/okres_plzen/foto/zaluzi_u_trmosne/zaluzi_u_tremosne_soubory/image019.jpg", "https://www.soupispamatek.com/okres_plzen/foto/zaluzi_u_trmosne/zaluzi_u_tremosne_soubory/image030.jpg", "https://www.soupispamatek.com/okres_plzen/foto/zaluzi_u_trmosne/zaluzi_u_tremosne_soubory/image031.jpg", "https://www.soupispamatek.com/okres_plzen/foto/zaluzi_u_trmosne/zaluzi_u_tremosne_soubory/image032.jpg", "https://www.soupispamatek.com/okres_plzen/foto/zaluzi_u_trmosne/zaluzi_u_tremosne_soubory/image033.jpg", "https://www.soupispamatek.com/okres_plzen/foto/zaluzi_u_trmosne/zaluzi_u_tremosne_soubory/image034.jpg"]
+---
+Soupis památek obce Záluží u Třemošné, bývalý politický okres Plzeň Kód CZ Záluží u Třemošné Železný kříž … Železný kříž Západně od vsi, doplněný kamenným hřbitovním křížkem Železný kříž … Železný kříž … Smírčí kámen Západně od vsi Památník Západně od vsi u sport.areálu, 14.9.1994 Památník Čtyř žen, usmrcených bleskem 22.6.1959 , severně od vsi Památník padlým … Zpět na okres Panství Politický okres Plzeň, s.o. Blovice 1961 Okres Plzeň sever 2003 Pověřený městský úřad Část obce Třemošná Historie obce První písemná zmínka o obci pochází z roku 1358 Rok obyv. domů 1850 1927 87 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Jaromír Lenoch © Aktualizace 19.6.2022

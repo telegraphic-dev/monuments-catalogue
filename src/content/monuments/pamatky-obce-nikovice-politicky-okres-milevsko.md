@@ -1,0 +1,11 @@
+---
+title: "Památky obce Níkovice, politický okres Milevsko"
+slug: "pamatky-obce-nikovice-politicky-okres-milevsko"
+sourceUrl: "https://www.soupispamatek.com/okres_milevsko/foto/nikovice/nikovice.htm"
+sourcePath: "pages/00312-okres_milevsko-foto-nikovice-nikovice.htm.html"
+district: "milevsko"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 12
+images: ["https://www.soupispamatek.com/okres_milevsko/foto/nikovice/nikovice_soubory/image023.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/nikovice/nikovice_soubory/image024.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/nikovice/nikovice_soubory/image025.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/nikovice/nikovice_soubory/image026.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/nikovice/nikovice_soubory/image027.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/nikovice/nikovice_soubory/image028.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/nikovice/nikovice_soubory/image029.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/nikovice/nikovice_soubory/image030.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/nikovice/nikovice_soubory/image031.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/nikovice/nikovice_soubory/image032.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/nikovice/nikovice_soubory/image002.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/nikovice/nikovice_soubory/image003.jpg"]
+---
+Památky obce Níkovice, politický okres Milevsko Kód CZ Níkovice Kaple sv.Rodiny 1898 Výklenková kaplička Zv.Buzkova , torzo u cesty k samotě Kaple Zv.Hantákova , na vrchu Na Brdech Železný kříž U kapličky Železný kříž Ve vsi Železný kříž U silnice na Kovářov Železný kříž U samoty Budák , rodiny Němečkovy Železný kříž U samoty Budák , torzo bez kříže Památník padlým … Dům … Zpět na okres Panství Politický okres Milevsko, s.o. Milevsko 1961 Okres Písek 2003 Pověřený městský úřad Část obce Hrejkovice Historie obce První písemná zmínka o vesnici pochází z roku 1488 Rok obyv . domů 1850 1927 223 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Jaromír Lenoch © Aktualizace 8.2.2022

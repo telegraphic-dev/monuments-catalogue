@@ -1,0 +1,11 @@
+---
+title: "Památky obce Horní Jadruž, politický okres Planá"
+slug: "pamatky-obce-horni-jadruz-politicky-okres-plana"
+sourceUrl: "https://www.soupispamatek.com/okres_plana/foto/horni_jadruz/horni_jadruz.htm"
+sourcePath: "pages/00906-okres_plana-foto-horni_jadruz-horni_jadruz.htm.html"
+district: "plana"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 13
+images: ["https://www.soupispamatek.com/okres_plana/foto/horni_jadruz/horni_jadruz_soubory/image003.jpg", "https://www.soupispamatek.com/okres_plana/foto/horni_jadruz/horni_jadruz_soubory/image005.jpg", "https://www.soupispamatek.com/okres_plana/foto/horni_jadruz/horni_jadruz_soubory/image030.jpg", "https://www.soupispamatek.com/okres_plana/foto/horni_jadruz/horni_jadruz_soubory/image031.jpg", "https://www.soupispamatek.com/okres_plana/foto/horni_jadruz/horni_jadruz_soubory/image032.jpg", "https://www.soupispamatek.com/okres_plana/foto/horni_jadruz/horni_jadruz_soubory/image033.jpg", "https://www.soupispamatek.com/okres_plana/foto/horni_jadruz/horni_jadruz_soubory/image034.jpg", "https://www.soupispamatek.com/okres_plana/foto/horni_jadruz/horni_jadruz_soubory/image035.jpg", "https://www.soupispamatek.com/okres_plana/foto/horni_jadruz/horni_jadruz_soubory/image036.jpg", "https://www.soupispamatek.com/okres_plana/foto/horni_jadruz/horni_jadruz_soubory/image037.jpg", "https://www.soupispamatek.com/okres_plana/foto/horni_jadruz/horni_jadruz_soubory/image038.jpg", "https://www.soupispamatek.com/okres_plana/foto/horni_jadruz/horni_jadruz_soubory/image039.jpg", "https://www.soupispamatek.com/okres_plana/foto/horni_jadruz/horni_jadruz_soubory/image040.jpg"]
+---
+Památky obce Horní Jadruž, politický okres Planá Kód CZ Horní Jadruž (Ober Godrisch ) Kaplička … Socha sv.Jana Nepomuckého … Socha [ sv.Vendelína ] 1837 Georg Böhm , odcizena před 1995 Kamenný kříž … Usedlost č.p. 4 … Usedlost č.p. 7 … Usedlost č.p. 11 … Usedlost č.p. 12 … Usedlost ( č.p. 13) – č.ev.1 … Usedlost č.p. 20 … Zpět na okres Panství Politický okres Planá, s.o. Planá 1961 Okres Tachov 2003 Pověřený městský úřad Část obce Chodský Újezd Historie obce První písemná zmínka o vesnici pochází z roku 1379 Rok obyv . domů 1850 1927 175 N 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Jaromír Lenoch © Ak tualizace 12.4.2021

@@ -1,0 +1,11 @@
+---
+title: "Památky obce Čeňkov u Milevska, politický okres Milevsko"
+slug: "pamatky-obce-cenkov-u-milevska-politicky-okres-milevsko"
+sourceUrl: "https://www.soupispamatek.com/okres_milevsko/foto/cenkovubechyne/cenkov_u_milevska.htm"
+sourcePath: "pages/00259-okres_milevsko-foto-cenkovubechyne-cenkov_u_milevska.htm.html"
+district: "milevsko"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 9
+images: ["https://www.soupispamatek.com/okres_milevsko/foto/cenkovubechyne/cenkov_u_milevska_soubory/image018.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/cenkovubechyne/cenkov_u_milevska_soubory/image019.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/cenkovubechyne/cenkov_u_milevska_soubory/image020.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/cenkovubechyne/cenkov_u_milevska_soubory/image021.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/cenkovubechyne/cenkov_u_milevska_soubory/image002.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/cenkovubechyne/cenkov_u_milevska_soubory/image003.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/cenkovubechyne/cenkov_u_milevska_soubory/image022.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/cenkovubechyne/cenkov_u_milevska_soubory/image023.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/cenkovubechyne/cenkov_u_milevska_soubory/image024.jpg"]
+---
+Památky obce Čeňkov u Milevska, politický okres Milevsko Kód CZ 32005 Čenkov Osada: Malý Čeňkov Kaple Zdroj C) 1901 Usedlost č.p.3 Zdroj C) Navzdory dochované výzdobě došlo k jejím nevhodným úpravám a doplněním při poslední opravě Usedlost č.p.4 Zdroj C) Štít chlévů z r.1903 Zpět na okres Panství Politický okres Milevsko, s.o. Bechyně 1961 Okres Tábor 2006 Okres České Budějovice 2003 Pověřený městský úřad Historie obce První písemná zmínka o obci pochází z roku 1412 Rok obyv. domů 1850 1927 112 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice čsl, 1927 C) cs.wikipedia.org (12.12.2019 Kód CZ Malý Čenkov Usedlost č.p.13 S patrovou sýpkou, silně zdevastována modernizacemi Usedlost č.p.15 … Usedlost č.p.16 Se zachovalou patrovou sýpkou, stavení zcela přestavěno Jaromír Lenoch © Ak tualizace 12.12.2019*

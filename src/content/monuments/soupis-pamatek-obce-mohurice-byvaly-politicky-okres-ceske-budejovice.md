@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Mohuřice, bývalý politický okres České Budějovice"
+slug: "soupis-pamatek-obce-mohurice-byvaly-politicky-okres-ceske-budejovice"
+sourceUrl: "https://www.soupispamatek.com/okres_ceskebudejovice/foto/mohurice/ohurice.htm"
+sourcePath: "pages/01862-okres_ceskebudejovice-foto-mohurice-ohurice.htm.html"
+district: "ceskebudejovice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 11
+images: ["https://www.soupispamatek.com/okres_ceskebudejovice/foto/mohurice/ohurice_soubory/image003.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/mohurice/ohurice_soubory/image005.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/mohurice/ohurice_soubory/image026.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/mohurice/ohurice_soubory/image027.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/mohurice/ohurice_soubory/image006.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/mohurice/ohurice_soubory/image007.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/mohurice/ohurice_soubory/image030.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/mohurice/ohurice_soubory/image031.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/mohurice/ohurice_soubory/image032.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/mohurice/ohurice_soubory/image033.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/mohurice/ohurice_soubory/image034.jpg"]
+---
+Soupis památek obce Mohuřice, bývalý politický okres České Budějovice Kód CZ 9887 Mohuřice Osady: Dobrkov , Keblany Kamenný kříž Před č.p.29 Železný kříž Východně od obce Dům č.p . Zdroj C) Se štítem 1842 Mlýn Zdroj C) Č.p.20 Kovárna Zdroj C) ... Zpět na okres Panství Politický okres České Budějovice, s.o.Trhové Sviny 1961 Okres České Budějovice 2003 Pověřený městský úřad Část Slavče Historie obce První písemná zmínka o vesnici pochází z roku 1186 Rok obyv . domů 1850 1927 582 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice čsl , 1927 C) cs.wikipedia.org (1.1.2018) Kód CZ 2457 Dobrkov - Dobrkovská Lhotka Kaplička 1867 Železný kříž Za č.p.29 Dům č.p.29 ... Kód CZ 6492 Keblany Kaplička Na návsi Železný kříž Na začátku vsi První písemná zmínka o vesnici pochází z roku 1360 Jaromír Lenoch © Aktualizace 1.1.2018

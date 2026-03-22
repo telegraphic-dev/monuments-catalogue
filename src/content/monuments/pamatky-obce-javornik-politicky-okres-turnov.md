@@ -1,0 +1,11 @@
+---
+title: "Památky obce Javorník, politický okres Turnov"
+slug: "pamatky-obce-javornik-politicky-okres-turnov"
+sourceUrl: "https://www.soupispamatek.com/okres_turnov/foto/javornik/javornik.htm"
+sourcePath: "pages/01978-okres_turnov-foto-javornik-javornik.htm.html"
+district: "turnov"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 13
+images: ["https://www.soupispamatek.com/okres_turnov/foto/javornik/javornik_soubory/image007.jpg", "https://www.soupispamatek.com/okres_turnov/foto/javornik/javornik_soubory/image009.jpg", "https://www.soupispamatek.com/okres_turnov/foto/javornik/javornik_soubory/image011.jpg", "https://www.soupispamatek.com/okres_turnov/foto/javornik/javornik_soubory/image013.jpg", "https://www.soupispamatek.com/okres_turnov/foto/javornik/javornik_soubory/image015.jpg", "https://www.soupispamatek.com/okres_turnov/foto/javornik/javornik_soubory/image017.jpg", "https://www.soupispamatek.com/okres_turnov/foto/javornik/javornik_soubory/image019.jpg", "https://www.soupispamatek.com/okres_turnov/foto/javornik/javornik_soubory/image021.jpg", "https://www.soupispamatek.com/okres_turnov/foto/javornik/javornik_soubory/image022.jpg", "https://www.soupispamatek.com/okres_turnov/foto/javornik/javornik_soubory/image023.jpg", "https://www.soupispamatek.com/okres_turnov/foto/javornik/javornik_soubory/image024.jpg", "https://www.soupispamatek.com/okres_turnov/foto/javornik/javornik_soubory/image025.jpg", "https://www.soupispamatek.com/okres_turnov/foto/javornik/javornik_soubory/image026.jpg"]
+---
+Památky obce Javorník, politický okres Turnov Kód CZ Javorník ( Jawornik ) Osada: Domaslavice , Horka, Padouchov Zvonička Na hasičské zbrojnici Dům č.p. 11 … Dům č.p. 12 … Dům č.p. 22 … Dům č.p. 27 … Dům č.p. 28 … Dům č.p. 31 … Dům č.p. 36 … Zpět na okres Panství Politický okres Turnov, s.o. Český Dub 1961 Okres Liberec 2003 Pověřený městský úřad Část obce Proseč pod Ještědem Historie obce Rok obyv . domů 1850 1927 320 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Kód CZ Domaslavice (Ober- Domaslowitz ) První písemná zmínka o obci pochází z roku 1548 Kód CZ Horka (Horka) Skalní byt … Kód CZ Padouchov Památník Dělnické manifestace r.1870 Dům č.p. 2 … [Dům] … První písemná zmínka o obci pochází z roku 1547 Jaromír Lenoch © Aktualizace 22.9.2021

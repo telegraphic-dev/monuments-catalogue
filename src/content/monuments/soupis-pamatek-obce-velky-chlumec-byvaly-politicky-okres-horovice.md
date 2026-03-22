@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Velký Chlumec, bývalý politický okres Hořovice"
+slug: "soupis-pamatek-obce-velky-chlumec-byvaly-politicky-okres-horovice"
+sourceUrl: "https://www.soupispamatek.com/okres_horovice/foto/velkychlumec/velkychlumec.htm"
+sourcePath: "pages/00842-okres_horovice-foto-velkychlumec-velkychlumec.htm.html"
+district: "horovice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 12
+images: ["https://www.soupispamatek.com/okres_horovice/foto/velkychlumec/velkychlumec_soubory/image006.jpg", "https://www.soupispamatek.com/okres_horovice/foto/velkychlumec/velkychlumec_soubory/image007.jpg", "https://www.soupispamatek.com/okres_horovice/foto/velkychlumec/velkychlumec_soubory/image027.jpg", "https://www.soupispamatek.com/okres_horovice/foto/velkychlumec/velkychlumec_soubory/image028.jpg", "https://www.soupispamatek.com/okres_horovice/foto/velkychlumec/velkychlumec_soubory/image029.jpg", "https://www.soupispamatek.com/okres_horovice/foto/velkychlumec/velkychlumec_soubory/image030.jpg", "https://www.soupispamatek.com/okres_horovice/foto/velkychlumec/velkychlumec_soubory/image031.jpg", "https://www.soupispamatek.com/okres_horovice/foto/velkychlumec/velkychlumec_soubory/image019.jpg", "https://www.soupispamatek.com/okres_horovice/foto/velkychlumec/velkychlumec_soubory/image032.jpg", "https://www.soupispamatek.com/okres_horovice/foto/velkychlumec/velkychlumec_soubory/image033.jpg", "https://www.soupispamatek.com/okres_horovice/foto/velkychlumec/velkychlumec_soubory/image034.jpg", "https://www.soupispamatek.com/okres_horovice/foto/velkychlumec/velkychlumec_soubory/image035.jpg"]
+---
+Soupis památek obce Velký Chlumec, bývalý politický okres Hořovice Kód CZ Velký Chlumec Osada: Malý Chlumec Kaplička … Železný kříž … Železný kříž V jižní části vsi Železný kříž V severní části vsi Památník padlým … Zpět na okres Panství Politický okres Hořovice, s.o. Hořovice 1961 Okres Beroun 2003 Pověřený městský úřad Historie obce První písemná zmínka o obci pochází z roku 1379 Rok obyv . domů 1850 1927 578 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Kód CZ Malý Chlumec (Žižkov) Kaplička sv.Jana Nepomuckého … Železný kříž … Památník padlým … Rozhledna Suchý vrch … Založena v 18.stol. Jaromír Lenoch © Aktualizace 14.6.2022

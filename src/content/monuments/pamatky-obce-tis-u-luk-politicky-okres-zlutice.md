@@ -1,0 +1,11 @@
+---
+title: "Památky obce Tis u Luk, politický okres Žlutice"
+slug: "pamatky-obce-tis-u-luk-politicky-okres-zlutice"
+sourceUrl: "https://www.soupispamatek.com/okres_zlutice/foto/tis_u_luk/tis_u_luk.htm"
+sourcePath: "pages/01236-okres_zlutice-foto-tis_u_luk-tis_u_luk.htm.html"
+district: "zlutice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 3
+images: ["https://www.soupispamatek.com/okres_zlutice/foto/tis_u_luk/tis_u_luk_soubory/image007.jpg", "https://www.soupispamatek.com/okres_zlutice/foto/tis_u_luk/tis_u_luk_soubory/image002.jpg", "https://www.soupispamatek.com/okres_zlutice/foto/tis_u_luk/tis_u_luk_soubory/image004.jpg"]
+---
+Památky obce Tis u Luk, politický okres Žlutice Kód CZ [Tis u Luk] ( Ti&#946; ) [Kaple P.Marie ] Zdroj D) Na počátku 20. století musela být původní gotická kaple pro špatný technický stav stržena a na jejím místě byla postavena novodobá kaple Panny Marie. [Maxův mlýn] Zdroj D) V údolí potoka Malá Tarasovka pod vesnicí, spojený cestou se vsí i s blízkým Radošovem . Zpět na okres Panství Hartenštejn Panství Andělská Hora Politický okres Žlutice, s.o. Bochov 1961 Okres Karlovy Vary Část Bražce 2003 Pověřený městský úřad Historie obce Zdroj D) První písemná zmínka o vesnici je z roku 1579, ale uvádí se také rok 1487. Zanikla vysídlením v roce 1953 v důsledku zřízení vojenského újezdu. První zmínka o vsi Tis pochází z roku 1487, kdy patřila ke hradu Hartenštejn , o něco později k panství Andělská Hora a roku 1588 ke statku Verušičky Heinricha Prollhofera . Berní rula roku 1654 uvádí Tis náležející k panství Luka, které patřilo Anně Barboře Prollhoferové , rozené ze Štampachu . Tehdy ve vsi žilo 6 sedláků, z nichž jeden měl také „rybník pod 1 kopu násady“. Dva poddaní žili tzv. na obci a ze tří chalup jedna po 11 letech zpustla. Celkem bylo ve vsi 18 potahů, 9 krav, 23 jalovic, 3 ovce, 10 prasat a 12 koz. Podle berní ruly zde byla stavení špatná, pole žitná i pšeničná, ale kamenitá a luk měli dostatek. V berní rule se také psalo že „dobytkem a obilím stojí“. Podle mapového podkladu z poloviny 19. století je vidět vzorový půdorys kolonizační vsi. Byla zde vytyčena obdélná náves a z nároží návsi vycházely přístupové komunikace. Ve vytyčených lánech byly postaveny jednotlivé usedlos...

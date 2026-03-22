@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Lipí, bývalý politický okres České Budějovice"
+slug: "soupis-pamatek-obce-lipi-byvaly-politicky-okres-ceske-budejovice"
+sourceUrl: "https://www.soupispamatek.com/okres_ceskebudejovice/foto/lipi/ipi.htm"
+sourcePath: "pages/01754-okres_ceskebudejovice-foto-lipi-ipi.htm.html"
+district: "ceskebudejovice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 12
+images: ["https://www.soupispamatek.com/okres_ceskebudejovice/foto/lipi/ipi_soubory/image006.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/lipi/ipi_soubory/image007.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/lipi/ipi_soubory/image028.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/lipi/ipi_soubory/image029.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/lipi/ipi_soubory/image030.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/lipi/ipi_soubory/image031.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/lipi/ipi_soubory/image032.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/lipi/ipi_soubory/image033.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/lipi/ipi_soubory/image003.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/lipi/ipi_soubory/image005.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/lipi/ipi_soubory/image036.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/lipi/ipi_soubory/image037.jpg"]
+---
+Soupis památek obce Lipí, bývalý politický okres České Budějovice Kód CZ Lipí Osada: Kaliště Kaplička P.Marie Lurdské 1897 Výklenková kaplička … Výklenková kaplička … Železný kříž … Dřevěný kříž … Usedlost č.p. 21 … Usedlost č.p. 23 … Usedlost č.p. 24 … Zpět na okres Panství Politický okres České Budějovice, s.o. Č.Budějovice 1961 Okres České Budějovice 2003 Pověřený městský úřad Historie obce První písemná zmínka o vsi ( Lypye ) pochází z roku 1389 Rok obyv . domů 1850 1927 541 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Kód CZ Kaliště ( Kallischt ) Kaple sv.Andělů … Železný kříž 1881 První písemná zmínka o vesnici pochází z roku 1379 Jaromír Lenoch © Aktualizace 2.2.2022

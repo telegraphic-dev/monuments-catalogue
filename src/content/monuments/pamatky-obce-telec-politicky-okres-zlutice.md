@@ -1,0 +1,11 @@
+---
+title: "Památky obce Teleč, politický okres Žlutice"
+slug: "pamatky-obce-telec-politicky-okres-zlutice"
+sourceUrl: "https://www.soupispamatek.com/okres_zlutice/foto/telec/telec.htm"
+sourcePath: "pages/01234-okres_zlutice-foto-telec-telec.htm.html"
+district: "zlutice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 5
+images: ["https://www.soupispamatek.com/okres_zlutice/foto/telec/telec_soubory/image012.jpg", "https://www.soupispamatek.com/okres_zlutice/foto/telec/telec_soubory/image013.jpg", "https://www.soupispamatek.com/okres_zlutice/foto/telec/telec_soubory/image014.jpg", "https://www.soupispamatek.com/okres_zlutice/foto/telec/telec_soubory/image015.jpg", "https://www.soupispamatek.com/okres_zlutice/foto/telec/telec_soubory/image016.jpg"]
+---
+Památky obce Teleč, politický okres Žlutice Kód CZ [ Teleč ] ( Teltsch ) Osada: Dlouhá Ves [Kaple] Zdroj D) z 2. poloviny 18. století stávala u budovy bývalé školy na návsi uprostřed [Tvrz] Zdroj D) Původně někteří autoři ztotožňovali budovu bývalé tvrze s objektem dnešní stodoly u zaniklého čp . 3, se střílnovými okénky a sklepy s valeně zaklenutým přízemím. Vzhledem k jeho stavební podobě a síle zdiva se však prokazatelně jednalo o hospodářský objekt. Dnes se zdá pravděpodobnější, že původní středověká tvrz stávala v severozápadním průčelí bývalého poplužního dvora a později, zřejmě již během 17. století, byla přestavěna na zámek. [Zámek] Zdroj D) Obdélná budova neznámé podoby stávající v severozápadním nároží poplužního dvora. Zda využila konstrukcí původní středověké tvrze ovšem není úplně jisté. Zpět na okres Panství Politický okres Žlutice, s.o. Bochov 1961 Okres Karlovy Vary Část Bochova 2003 Pověřený městský úřad Historie obce První písemná zmínka o vesnici pochází z roku 1364 Minimálně od 14. století patřila dnes již zcela zaniklá ves Teleč ( Teltsch ) k manskému systému hradu Hungerberg , převedenému později k Hartenštejnu . První písemná zmínka o vsi je z roku 1364, kdy zdejší léno držel Hrzek z Telče. Rok obyv . domů 1850 1927 418 N 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice čsl , 1927 2) Poche Emanuel, Umělecké památky Čech, 1977-82 ( Bochov ) C) cs.wikipedia.org (19.7.2016) Kód CZ Dlouhá Ves ( Langendorf ) [Kaplička] Zdroj 2) Ve středu obce, 1809 u č.p.17 Železný kříž Zdroj 2) Před kaplí, 2.pol.19.stol. [Usedlost ...

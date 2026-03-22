@@ -1,0 +1,11 @@
+---
+title: "Památky obce Dolní Jadruž, politický okres Planá"
+slug: "pamatky-obce-dolni-jadruz-politicky-okres-plana"
+sourceUrl: "https://www.soupispamatek.com/okres_plana/foto/dolni_jadruz/dolni_jadruz.htm"
+sourcePath: "pages/00903-okres_plana-foto-dolni_jadruz-dolni_jadruz.htm.html"
+district: "plana"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 13
+images: ["https://www.soupispamatek.com/okres_plana/foto/dolni_jadruz/dolni_jadruz_soubory/image003.jpg", "https://www.soupispamatek.com/okres_plana/foto/dolni_jadruz/dolni_jadruz_soubory/image005.jpg", "https://www.soupispamatek.com/okres_plana/foto/dolni_jadruz/dolni_jadruz_soubory/image029.jpg", "https://www.soupispamatek.com/okres_plana/foto/dolni_jadruz/dolni_jadruz_soubory/image030.jpg", "https://www.soupispamatek.com/okres_plana/foto/dolni_jadruz/dolni_jadruz_soubory/image031.jpg", "https://www.soupispamatek.com/okres_plana/foto/dolni_jadruz/dolni_jadruz_soubory/image032.jpg", "https://www.soupispamatek.com/okres_plana/foto/dolni_jadruz/dolni_jadruz_soubory/image033.jpg", "https://www.soupispamatek.com/okres_plana/foto/dolni_jadruz/dolni_jadruz_soubory/image034.jpg", "https://www.soupispamatek.com/okres_plana/foto/dolni_jadruz/dolni_jadruz_soubory/image035.jpg", "https://www.soupispamatek.com/okres_plana/foto/dolni_jadruz/dolni_jadruz_soubory/image036.jpg", "https://www.soupispamatek.com/okres_plana/foto/dolni_jadruz/dolni_jadruz_soubory/image037.jpg", "https://www.soupispamatek.com/okres_plana/foto/dolni_jadruz/dolni_jadruz_soubory/image038.jpg", "https://www.soupispamatek.com/okres_plana/foto/dolni_jadruz/dolni_jadruz_soubory/image039.jpg"]
+---
+Památky obce Dolní Jadruž, politický okres Planá Kód CZ Dolní Jadruž ( Unter Godrisch ) Osada: Karlín Kaple P.Marie Pomocnice křesťanů … Kaplička … Památník padlým … Usedlost č.p. 19 … Usedlost č.p. 22 … Usedlost č.p. 26 … Usedlost č.p. 28 … Usedlost č.p. 29 … Usedlost č.p. 31 … Usedlost č.p. 33 … Usedlost č.p. 38 … Zpět na okres Panství Politický okres Planá, s.o. Planá 1961 Okres Tachov 2003 Pověřený městský úřad Část obce Chodský Újezd Historie obce První písemná zmínka o vesnici pochází z roku 1379 Rok obyv . domů 1850 1927 668 N 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Kód CZ Karlín ( Karolinenhof ) Jaromír Lenoch © Aktualizace 12.4.2021

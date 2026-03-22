@@ -1,0 +1,11 @@
+---
+title: "Soupis památek - Památky obce Srbsko, politický okres Mnichovo Hradiště"
+slug: "soupis-pamatek-pamatky-obce-srbsko-politicky-okres-mnichovo-hradiste"
+sourceUrl: "https://www.soupispamatek.com/okres_mnichovohradiste/foto/srbsko/srbsko.htm"
+sourcePath: "pages/00411-okres_mnichovohradiste-foto-srbsko-srbsko.htm.html"
+district: "mnichovohradiste"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 12
+images: ["https://www.soupispamatek.com/okres_mnichovohradiste/foto/srbsko/srbsko_soubory/image002.jpg", "https://www.soupispamatek.com/okres_mnichovohradiste/foto/srbsko/srbsko_soubory/image003.jpg", "https://www.soupispamatek.com/okres_mnichovohradiste/foto/srbsko/srbsko_soubory/image004.jpg", "https://www.soupispamatek.com/okres_mnichovohradiste/foto/srbsko/srbsko_soubory/image005.jpg", "https://www.soupispamatek.com/okres_mnichovohradiste/foto/srbsko/srbsko_soubory/image006.jpg", "https://www.soupispamatek.com/okres_mnichovohradiste/foto/srbsko/srbsko_soubory/image007.jpg", "https://www.soupispamatek.com/okres_mnichovohradiste/foto/srbsko/srbsko_soubory/image009.jpg", "https://www.soupispamatek.com/okres_mnichovohradiste/foto/srbsko/srbsko_soubory/image011.jpg", "https://www.soupispamatek.com/okres_mnichovohradiste/foto/srbsko/srbsko_soubory/image012.jpg", "https://www.soupispamatek.com/okres_mnichovohradiste/foto/srbsko/srbsko_soubory/image013.jpg", "https://www.soupispamatek.com/okres_mnichovohradiste/foto/srbsko/srbsko_soubory/image014.jpg", "https://www.soupispamatek.com/okres_mnichovohradiste/foto/srbsko/srbsko_soubory/image015.jpg"]
+---
+Soupis památek - Památky obce Srbsko, politický okres Mnichovo Hradiště Kód CZ 15008 Srbsko Osada: Kamenice Kaple &#59456; … Železný kříž &#59456; 1896 Památník padlým &#59456; … Dům č.p.3 … Dům č.p.18 … Dům č.p.25 … Zpět na okres Panství Politický okres Mnichovo Hradiště, s.o. Mnichovo Hradiště 1961 Okres Mladá Boleslav 2003 Pověřený městský úřad Část obce Kněžmost Historie obce První písemná zmínka o obci pochází z roku 1543 Rok obyv. domů 1850 1927 221 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Kód CZ 6271 Kamenice Železný kříž &#59456; … Železný kříž &#59456; … Dům č.p.17 … Dům č.p.34 … Část obce Dobšín 10 – 10 – 0 Jaromír Lenoch © Aktualizace 4.4.2023 Předchozí editace: 17.11.2020

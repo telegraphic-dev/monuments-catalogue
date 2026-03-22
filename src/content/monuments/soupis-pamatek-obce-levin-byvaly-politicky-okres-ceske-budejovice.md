@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Levín, bývalý politický okres České Budějovice"
+slug: "soupis-pamatek-obce-levin-byvaly-politicky-okres-ceske-budejovice"
+sourceUrl: "https://www.soupispamatek.com/okres_ceskebudejovice/foto/levin/levin.htm"
+sourcePath: "pages/01836-okres_ceskebudejovice-foto-levin-levin.htm.html"
+district: "ceskebudejovice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 11
+images: ["https://www.soupispamatek.com/okres_ceskebudejovice/foto/levin/levin_soubory/image003.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/levin/levin_soubory/image005.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/levin/levin_soubory/image026.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/levin/levin_soubory/image027.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/levin/levin_soubory/image006.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/levin/levin_soubory/image007.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/levin/levin_soubory/image030.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/levin/levin_soubory/image031.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/levin/levin_soubory/image032.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/levin/levin_soubory/image033.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/levin/levin_soubory/image034.jpg"]
+---
+Soupis památek obce Levín, bývalý politický okres České Budějovice Kód CZ Levín ( Lewin ) Osada: Hrutov Kaplička sv.Víta … Mlýn … Kovárna Č.p. 13 Usedlost … Zpět na okres Panství Hluboká Politický okres České Budějovice, s.o. Lišov 1961 Okres České Budějovice 2003 Pověřený městský úřad Část města Lišov Historie obce Nejstarší písemná zmínka o obci pochází ze zástavní listiny krále Karla IV. vydané 6. května 1378 Rok obyv . domů 1850 1927 202 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Kód CZ Hrutov Kaplička Společně s budovou hasičské zbrojnice Železný kříž … Železný kříž … Usedlost … Usedlost … První písemná zmínka je ze 6. května 1378 Kód CZ [ Přívořany ] Jihozápadně od Levína , zbytky zaniklé osady Jaromír Lenoch © Aktualizace 2.1.2022

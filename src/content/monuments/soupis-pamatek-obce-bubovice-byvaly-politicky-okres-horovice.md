@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Bubovice, bývalý politický okres Hořovice"
+slug: "soupis-pamatek-obce-bubovice-byvaly-politicky-okres-horovice"
+sourceUrl: "https://www.soupispamatek.com/okres_horovice/foto/bubovice/bubovice.htm"
+sourcePath: "pages/00751-okres_horovice-foto-bubovice-bubovice.htm.html"
+district: "horovice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 9
+images: ["https://www.soupispamatek.com/okres_horovice/foto/bubovice/bubovice_soubory/image003.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bubovice/bubovice_soubory/image005.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bubovice/bubovice_soubory/image020.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bubovice/bubovice_soubory/image021.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bubovice/bubovice_soubory/image006.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bubovice/bubovice_soubory/image024.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bubovice/bubovice_soubory/image007.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bubovice/bubovice_soubory/image008.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bubovice/bubovice_soubory/image019.jpg"]
+---
+Soupis památek obce Bubovice, bývalý politický okres Hořovice Kód CZ Bubovice ( Bubowitz ) Kaplička sv.Vojtěcha Zřícenina polygonální kaple za vsí, 1714, zanikla po 1785 Železný kříž Zv.Opatův . Na místě kamenného kříže z r.1772 , po roce 1950 jen rozvalený podstavec, vedle původního podstavce v roce 1998 postaven současný kříž Železný kříž … Památník padlým Nápis: NA PAMÁTKU PADLÝM VOJÍNŮM 1914 – 1918 / JOSEF KŘIŠŤÁL VÁCLAV KLIKA FRANT. KOCOUREK VÁCLAV HAMPL JOSEF MUŽÍK JOSEF NIKODÝM ANTONÍN JEŽDÍK JAN KOVAŘÍK VÁCLAV ŠINÁGL VÁCLAV ŽENÍŠEK PETR SRCH FRANT. STREJČEK VÁCLAV ČERVINKA Salvayovy lomy Expozice těžby vápence s úzkorozchodnou železnicí. Usedlost … Zpět na okres Panství Politický okres Hořovice, s.o. Beroun 1961 Okres Beroun 2003 Pověřený městský úřad Historie obce První písemná zmínka o obci pochází z roku 1333 Rok obyv . domů 1850 1927 383 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Jaromír Lenoch © Aktualizace 8.6.2022

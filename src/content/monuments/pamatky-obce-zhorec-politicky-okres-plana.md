@@ -1,0 +1,11 @@
+---
+title: "Památky obce Zhořec, politický okres Planá"
+slug: "pamatky-obce-zhorec-politicky-okres-plana"
+sourceUrl: "https://www.soupispamatek.com/okres_plana/foto/zhorec/zhorec.htm"
+sourcePath: "pages/00896-okres_plana-foto-zhorec-zhorec.htm.html"
+district: "plana"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 11
+images: ["https://www.soupispamatek.com/okres_plana/foto/zhorec/zhorec_soubory/image003.jpg", "https://www.soupispamatek.com/okres_plana/foto/zhorec/zhorec_soubory/image005.jpg", "https://www.soupispamatek.com/okres_plana/foto/zhorec/zhorec_soubory/image026.jpg", "https://www.soupispamatek.com/okres_plana/foto/zhorec/zhorec_soubory/image027.jpg", "https://www.soupispamatek.com/okres_plana/foto/zhorec/zhorec_soubory/image006.jpg", "https://www.soupispamatek.com/okres_plana/foto/zhorec/zhorec_soubory/image007.jpg", "https://www.soupispamatek.com/okres_plana/foto/zhorec/zhorec_soubory/image030.jpg", "https://www.soupispamatek.com/okres_plana/foto/zhorec/zhorec_soubory/image031.jpg", "https://www.soupispamatek.com/okres_plana/foto/zhorec/zhorec_soubory/image032.jpg", "https://www.soupispamatek.com/okres_plana/foto/zhorec/zhorec_soubory/image033.jpg", "https://www.soupispamatek.com/okres_plana/foto/zhorec/zhorec_soubory/image034.jpg"]
+---
+Památky obce Zhořec, politický okres Planá Kód CZ 19120 Zhořec (Hurz) Osada: Kamík, Kohoutov, Pačín Železný kříž Na návsi Památník padlým ... Smírčí kříž Zdroj C) Při vjezdu od Kamíku Dům č.p.27 ... Zpět na okres Panství Politický okres Planá, s.o.Bezdružice 1961 Okres Tachov Část Bezdružic 2003 Pověřený městský úřad Historie obce První písemná zmínka o vesnici pochází z roku 1367 Rok obyv. domů 1850 1927 423 N 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice čsl, 1927 C) cs.wikipedia.org (20.1.2018) Kód CZ 6345 Kamík (Kamiegl) Kamenný kříž Zdroj C) Rozbitý u silnice Památník padlým Zdroj C) ... Historie První písemná zmínka o vesnici pochází z roku 1115 Kód CZ 6808 Kohoutov (Kahudowa) Historie První písemná zmínka o vesnici pochází z roku 1227 Kód CZ 11771 Pačín (Patzin) Kamenný kříž ... Železný kříž ... Dům č.p.1 Zdroj C) Hrázděný 1774, úpravy 1892 Historie První písemná zmínka o vesnici pochází z roku 1405 Jaromír Lenoch © Ak tualizace 20.1.2018

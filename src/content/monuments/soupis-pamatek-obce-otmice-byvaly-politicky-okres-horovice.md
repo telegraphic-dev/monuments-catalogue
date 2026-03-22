@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Otmiče, bývalý politický okres Hořovice"
+slug: "soupis-pamatek-obce-otmice-byvaly-politicky-okres-horovice"
+sourceUrl: "https://www.soupispamatek.com/okres_horovice/foto/otmice/otmice.htm"
+sourcePath: "pages/00827-okres_horovice-foto-otmice-otmice.htm.html"
+district: "horovice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 8
+images: ["https://www.soupispamatek.com/okres_horovice/foto/otmice/otmice_soubory/image006.jpg", "https://www.soupispamatek.com/okres_horovice/foto/otmice/otmice_soubory/image007.jpg", "https://www.soupispamatek.com/okres_horovice/foto/otmice/otmice_soubory/image020.jpg", "https://www.soupispamatek.com/okres_horovice/foto/otmice/otmice_soubory/image021.jpg", "https://www.soupispamatek.com/okres_horovice/foto/otmice/otmice_soubory/image022.jpg", "https://www.soupispamatek.com/okres_horovice/foto/otmice/otmice_soubory/image023.jpg", "https://www.soupispamatek.com/okres_horovice/foto/otmice/otmice_soubory/image024.jpg", "https://www.soupispamatek.com/okres_horovice/foto/otmice/otmice_soubory/image019.jpg"]
+---
+Soupis památek obce Otmiče, bývalý politický okres Hořovice Kód CZ Otmiče Kaplička … Kamenný kříž … Železný kříž … Památník padlým Zdroj C) Nápis: Památce padlým a zemřelým vojínům ve světové válce / Červený Frant ., Frýdl Václ ., Frýdl Frant ., Hrdlička Alois, Hrdlička Emil, Hlavatý Jos ., Lidrych Frant ., Novák Jan, Novotný Frant ., Procházka Tomeš, Vašek Ant. – čet. rus . leg. Z lásky, vděku a pevné vůle vybojovali jsme vám ??? / Sbor dobrovolných hasičů. Poznámka: část nápisu byla z pomníku odstraněna Vašek Antonín, nar. 29.12.1886 (1885), Votmiče okr. Hořovice, bydliště Votmiče okr. Hořovice, Nové Město nad Metují. V RU armádě sloužil u 88. pěšího pluku jako četař. Zajat 26.11.1914 , Hrušov. Do čs legií v Rusku se přihlásil v Omsku, zařazen 15.8.1918 jako četař k týl . int . Další data chybí. Dům … Zpět na okres Panství Politický okres Hořovice, s.o. Hořovice 1961 Okres Beroun 2003 Pověřený městský úřad Historie obce První písemná zmínka o obci pochází z roku 1227 Rok obyv . domů 1850 1927 224 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Jaromír Lenoch © Aktualizace 13.6.2022

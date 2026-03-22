@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Běstín, bývalý politický okres Hořovice"
+slug: "soupis-pamatek-obce-bestin-byvaly-politicky-okres-horovice"
+sourceUrl: "https://www.soupispamatek.com/okres_horovice/foto/bestin/bestin.htm"
+sourcePath: "pages/00795-okres_horovice-foto-bestin-bestin.htm.html"
+district: "horovice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 13
+images: ["https://www.soupispamatek.com/okres_horovice/foto/bestin/bestin_soubory/image007.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bestin/bestin_soubory/image009.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bestin/bestin_soubory/image011.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bestin/bestin_soubory/image013.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bestin/bestin_soubory/image015.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bestin/bestin_soubory/image017.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bestin/bestin_soubory/image018.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bestin/bestin_soubory/image019.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bestin/bestin_soubory/image036.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bestin/bestin_soubory/image037.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bestin/bestin_soubory/image038.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bestin/bestin_soubory/image039.jpg", "https://www.soupispamatek.com/okres_horovice/foto/bestin/bestin_soubory/image040.jpg"]
+---
+Soupis památek obce Běstín, bývalý politický okres Hořovice Kód CZ Běstín ( Bieschtin ) Kaplička … Synagoga … Židovský hřbitov … Železný kříž … Památník padlým … Pamětní deska Františku Procházkovi Na rodném domě, spisovateli Pamětní deska Bartoloměji Hlavínovi Na rodném domě, malíři Usedlost č.p. 55 1797 jako kovárna a výrobna hřebíků a cvočků Škola Obecní úřad Dům č.p. 20 a 88 … Dům č.p. 34 … Zpět na okres Panství Politický okres Hořovice, s.o. Hořovice 1961 Okres Beroun 2003 Pověřený městský úřad Historie obce První písemná zmínka o obci pochází z roku 1406 Rok obyv . domů 1850 1927 765 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Jaromír Lenoch © Ak tualizace 14.6.2022

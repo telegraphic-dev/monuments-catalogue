@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Vinařice, bývalý politický okres Hořovice"
+slug: "soupis-pamatek-obce-vinarice-byvaly-politicky-okres-horovice"
+sourceUrl: "https://www.soupispamatek.com/okres_horovice/foto/vinarice/vinarice.htm"
+sourcePath: "pages/00788-okres_horovice-foto-vinarice-vinarice.htm.html"
+district: "horovice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 9
+images: ["https://www.soupispamatek.com/okres_horovice/foto/vinarice/vinarice_soubory/image006.jpg", "https://www.soupispamatek.com/okres_horovice/foto/vinarice/vinarice_soubory/image007.jpg", "https://www.soupispamatek.com/okres_horovice/foto/vinarice/vinarice_soubory/image022.jpg", "https://www.soupispamatek.com/okres_horovice/foto/vinarice/vinarice_soubory/image023.jpg", "https://www.soupispamatek.com/okres_horovice/foto/vinarice/vinarice_soubory/image024.jpg", "https://www.soupispamatek.com/okres_horovice/foto/vinarice/vinarice_soubory/image025.jpg", "https://www.soupispamatek.com/okres_horovice/foto/vinarice/vinarice_soubory/image026.jpg", "https://www.soupispamatek.com/okres_horovice/foto/vinarice/vinarice_soubory/image027.jpg", "https://www.soupispamatek.com/okres_horovice/foto/vinarice/vinarice_soubory/image021.jpg"]
+---
+Soupis památek obce Vinařice, bývalý politický okres Hořovice Kód CZ Vinařice Kaplička Nejsv.Trojice 1841 Železný kříž Na jihovýchodním okraji vsi Železný kříž Jihozápadně od vsi Železný kříž Severovýchodně od vsi Památník padlým Nápis: OBĚTEM PRVNÍ A DRUHÉ SVĚTOVÉ VÁLKY / v I.světové válce - padli občané Auřada Josef čp.9 * 1880 Houba Václav čp.6 * 1895 Procházka Václav čp.5 * 1896 Procházka Alois čp.5 *1898 Roztočil Antonín čp.20 * 1893 Skala František čp.28 * 1886 Věchtík Václav čp.13 * 1889 Zikán Josef čp.16 * 1892 1914 1918 / 1939 - 1945 II. světová válka Hecht Rudolf *1879 †1944 Dachau Hechtová Helena *1879 †1944 Dachau Hecht Otto *1906 †1945 Terezín Becková Anna *1908 †1944 Dachau židé z čp.29 Chalupa č.p. 8 Památkově chráněná. Roubená Zpět na okres Panství Politický okres Hořovice, s.o. Beroun 1961 Okres Beroun 2003 Pověřený městský úřad Historie obce První písemná zmínka o obci pochází z roku 1170 Rok obyv . domů 1850 1927 236 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Jaromír Lenoch © Aktualizace 13.6.2022

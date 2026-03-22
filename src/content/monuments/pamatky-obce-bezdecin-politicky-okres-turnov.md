@@ -1,0 +1,11 @@
+---
+title: "Památky obce Bezděčín, politický okres Turnov"
+slug: "pamatky-obce-bezdecin-politicky-okres-turnov"
+sourceUrl: "https://www.soupispamatek.com/okres_turnov/foto/bezdecin/bezdecin.htm"
+sourcePath: "pages/01998-okres_turnov-foto-bezdecin-bezdecin.htm.html"
+district: "turnov"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 11
+images: ["https://www.soupispamatek.com/okres_turnov/foto/bezdecin/bezdecin_soubory/image003.jpg", "https://www.soupispamatek.com/okres_turnov/foto/bezdecin/bezdecin_soubory/image005.jpg", "https://www.soupispamatek.com/okres_turnov/foto/bezdecin/bezdecin_soubory/image026.jpg", "https://www.soupispamatek.com/okres_turnov/foto/bezdecin/bezdecin_soubory/image006.jpg", "https://www.soupispamatek.com/okres_turnov/foto/bezdecin/bezdecin_soubory/image007.jpg", "https://www.soupispamatek.com/okres_turnov/foto/bezdecin/bezdecin_soubory/image029.jpg", "https://www.soupispamatek.com/okres_turnov/foto/bezdecin/bezdecin_soubory/image030.jpg", "https://www.soupispamatek.com/okres_turnov/foto/bezdecin/bezdecin_soubory/image031.jpg", "https://www.soupispamatek.com/okres_turnov/foto/bezdecin/bezdecin_soubory/image032.jpg", "https://www.soupispamatek.com/okres_turnov/foto/bezdecin/bezdecin_soubory/image033.jpg", "https://www.soupispamatek.com/okres_turnov/foto/bezdecin/bezdecin_soubory/image034.jpg"]
+---
+Památky obce Bezděčín, politický okres Turnov Kód CZ Bezděčín ( Bösching ) Osada: Anděl strážce, Jílové, Sestroňovice Socha P.Marie Na sloupu u č.p. 38 Boží muka Na sloupu Zpět na okres Panství Politický okres Turnov, s.o. Turnov 1961 Okres Jablonec nad Nisou 2003 Pověřený městský úřad Část obce Frýdštejn Historie obce První písemná zmínka o obci pochází z roku 1543 Rok obyv . domů 1850 1927 661 27%N 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Kód CZ Anděl Strážce První písemná zmínka o obci pochází z roku 1543 Kód CZ Jílové Kaplička Anděla Páně Zříceniny Zvonička Na hasičské zbrojnici Část obce Hodkovice nad Mohelkou Kód CZ Sestroňovice Kaplička S kamenným křížem uvnitř, 1937 Boží muka U č.p. 6 Usedlost č.p. 1 Památkově chráněná Usedlost č.p. 4 … První písemná zmínka o obci pochází z roku 1543 Jaromír Lenoch © Aktualizace 23.9.2021

@@ -1,0 +1,8 @@
+{
+  "name": "monuments-catalogue",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "import:soupispamatek": "node scripts/import-soupispamatek.mjs"
+  }
+}

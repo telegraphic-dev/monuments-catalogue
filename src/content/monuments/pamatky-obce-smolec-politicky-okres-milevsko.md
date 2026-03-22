@@ -1,0 +1,11 @@
+---
+title: "Památky obce Smoleč, politický okres Milevsko"
+slug: "pamatky-obce-smolec-politicky-okres-milevsko"
+sourceUrl: "https://www.soupispamatek.com/okres_milevsko/foto/smolec/smolec.htm"
+sourcePath: "pages/00252-okres_milevsko-foto-smolec-smolec.htm.html"
+district: "milevsko"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 12
+images: ["https://www.soupispamatek.com/okres_milevsko/foto/smolec/smolec_soubory/image024.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/smolec/smolec_soubory/image025.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/smolec/smolec_soubory/image026.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/smolec/smolec_soubory/image027.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/smolec/smolec_soubory/image028.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/smolec/smolec_soubory/image029.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/smolec/smolec_soubory/image030.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/smolec/smolec_soubory/image031.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/smolec/smolec_soubory/image032.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/smolec/smolec_soubory/image033.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/smolec/smolec_soubory/image002.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/smolec/smolec_soubory/image003.jpg"]
+---
+Památky obce Smoleč, politický okres Milevsko Kód CZ 251 Bechyňská Smoleč (Smoleč, Smoletsch) Osada: Kaple sv.Jana Nepomuckého Zdroj C) 1863 Mohylové pohřebiště Zdroj C) asi s 60 žárovými mohylami na Žluté hoře Železný kříž Zdroj C) U cesty na Černýšovice Železný kříž Zdroj C) U č.p.38 Usedlost č.p.3 Zdroj C) … Usedlost č.p.4 Zdroj C) 1864 Usedlost č.p.5 Zdroj C) 1860 na bráně a 1864 na štítě stavení Usedlost č.p.6 … Dům č.p.10 Zdroj C) … Usedlost č.p.16 Zdroj C) … Zpět na okres Panství Politický okres Milevsko, s.o. Bechyně 1961 Okres Tábor 2003 Pověřený městský úřad Část Sudoměřic Historie obce První písemná zmínka o vesnici pochází z roku 1511 Rok obyv. domů 1850 1927 203 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice čsl, 1927 C) cs.wikipedia.org (11.12.,2019) Jaromír Lenoch © Ak tualizace 11.12.2019

@@ -1,0 +1,11 @@
+---
+title: "Památky obce Líšnice, politický okres Milevsko"
+slug: "pamatky-obce-lisnice-politicky-okres-milevsko"
+sourceUrl: "https://www.soupispamatek.com/okres_milevsko/foto/lisnice/lisnice.htm"
+sourcePath: "pages/00308-okres_milevsko-foto-lisnice-lisnice.htm.html"
+district: "milevsko"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 12
+images: ["https://www.soupispamatek.com/okres_milevsko/foto/lisnice/lisnice_soubory/image024.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/lisnice/lisnice_soubory/image025.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/lisnice/lisnice_soubory/image026.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/lisnice/lisnice_soubory/image027.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/lisnice/lisnice_soubory/image028.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/lisnice/lisnice_soubory/image029.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/lisnice/lisnice_soubory/image030.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/lisnice/lisnice_soubory/image031.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/lisnice/lisnice_soubory/image032.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/lisnice/lisnice_soubory/image033.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/lisnice/lisnice_soubory/image002.jpg", "https://www.soupispamatek.com/okres_milevsko/foto/lisnice/lisnice_soubory/image003.jpg"]
+---
+Památky obce Líšnice, politický okres Milevsko Kód CZ Líšnice Kaplička P.Marie Sepekovské Na návsi Výklenková kaplička P.Marie Sepekovské U silnice do Milevska, 1897 Kamenný kříž 1835, u kaple Kamenný kříž 1835 Kamenný kříž U cesty k rybníku Železný kříž 1947 u kolejí Usedlost č.p. 17 S bránou Usedlost č.p. 22 1882 Usedlost č.p. 23 Se sýpkou z r.1866 Usedlost Se stodolami Zpět na okres Panství Politický okres Milevsko, s.o. Milevsko Část obce Okrouhlá 1893 samostatná obec 1961 Okres Písek 2003 Pověřený městský úřad Část městečka Sepekov Historie obce První písemná zmínka o vesnici pochází z roku 1488 Rok obyv . domů 1850 1927 420 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org Jaromír Lenoch © Aktualizace 11.3.2022

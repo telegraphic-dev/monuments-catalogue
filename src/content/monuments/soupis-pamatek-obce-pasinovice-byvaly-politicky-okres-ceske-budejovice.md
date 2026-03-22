@@ -1,0 +1,11 @@
+---
+title: "Soupis památek obce Pašinovice, bývalý politický okres České Budějovice"
+slug: "soupis-pamatek-obce-pasinovice-byvaly-politicky-okres-ceske-budejovice"
+sourceUrl: "https://www.soupispamatek.com/okres_ceskebudejovice/foto/pasinovice/pasinovice.htm"
+sourcePath: "pages/01869-okres_ceskebudejovice-foto-pasinovice-pasinovice.htm.html"
+district: "ceskebudejovice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 6
+images: ["https://www.soupispamatek.com/okres_ceskebudejovice/foto/pasinovice/pasinovice_soubory/image003.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/pasinovice/pasinovice_soubory/image005.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/pasinovice/pasinovice_soubory/image016.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/pasinovice/pasinovice_soubory/image017.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/pasinovice/pasinovice_soubory/image006.jpg", "https://www.soupispamatek.com/okres_ceskebudejovice/foto/pasinovice/pasinovice_soubory/image007.jpg"]
+---
+Soupis památek obce Pašinovice, bývalý politický okres České Budějovice Kód CZ Pašinovice ( Pašňovice , Pašiněvice ) Zvonička Zdroj C) se zvonem z roku 1886. Zvon pochází údajně z osady Hamr. Roku 1942 byl zkonfiskován pro válečné účely, ale po válce byl opět nalezen v Praze a navrácen. Kaplička Zdroj C) … Výklenková kaplička Zdroj C) … Památník padlým Zdroj C) … Rybářská bašta Zdroj C) Č.p . 15 Nový mlýn Zdroj C) Č.p . 17 se zámeckou vilou Zpět na okres Panství Komařice Politický okres České Budějovice, s.o.Trhové Sviny 1961 Okres 2003 Pověřený městský úřad Část Komařic Historie obce Zdroj C) První písemná zmínka o vesnici pochází z roku 1371, kdy je zmiňován místní zeman Oldřich Pašinovic , po něm 1380 Čeněk Pašinovic a jeho syn Pešík . Oba zemřeli 1414. Pašinovice zdědil příbuzný Oldřich. Více není o těchto majitelích známo, byla však v dobrém či příbuzenském vztahu s majiteli Komařic . Rytíř Beneš IV. z Komařic zdědil Pašinovice v roce 1457. Rok obyv . domů 1850 1927 208 1930 1947 1961 1970 2001 literatura a prameny 1) Administrativní lexikon obcí v republice Čsl , 1927 C) cs.wikipedia.org (30.12.2019) Jaromír Lenoch © Aktualizace 30.12.2019

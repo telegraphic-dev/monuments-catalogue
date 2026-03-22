@@ -1,0 +1,11 @@
+---
+title: "Památky obce Javorná, politický okres Žlutice"
+slug: "pamatky-obce-javorna-politicky-okres-zlutice"
+sourceUrl: "https://www.soupispamatek.com/okres_zlutice/foto/javorna/javorna.htm"
+sourcePath: "pages/01221-okres_zlutice-foto-javorna-javorna.htm.html"
+district: "zlutice"
+importedAt: "2026-03-22T09:14:34.925Z"
+imageCount: 4
+images: ["https://www.soupispamatek.com/okres_zlutice/foto/javorna/javorna_soubory/image005.jpg", "https://www.soupispamatek.com/okres_zlutice/foto/javorna/javorna_soubory/image007.jpg", "https://www.soupispamatek.com/okres_zlutice/foto/javorna/javorna_soubory/image008.jpg", "https://www.soupispamatek.com/okres_zlutice/foto/javorna/javorna_soubory/image012.jpg"]
+---
+Památky obce Javorná, politický okres Žlutice Kód CZ Javorná ( Ohorn ) [Kaple] Zdroj E) kapli nechala zřídit rodina Weidnerů na památku svých dvou synů Franze a Antona, padlých během první světové války, ve dvoře hospodářské usedlosti čp . 16 [Hřbitov] Zdroj D) na konci obce, zbytky [Socha sv. Jana Nepomuckého] Zdroj D) Zdroj E) stávala v poli ještě v roce 1992, už rozlomená na tři kusy. zřídila ji rodina Sacherů z usedlosti č.p . 7 v polích [Kříž] Zdroj D) U cesty ke kostelu v Bražci stával kříž. [Boží muka] Zdroj D) stávala na konci obce Zpět na okres Panství Politický okres Žlutice, s.o. Bochov 1961 Okres Karlovy Vary Část Bražce 2003 Pověřený městský úřad Historie obce Zdroj C) Zdroj D) První písemná zmínka o vesnici pochází z roku 1580. Většina vesnice zanikla vysídlením v roce 1953 v důsledku zřízení vojenského újezdu Hradiště. Patřila k hradu Hartensteinu . Farou patřila do Bražce a pošta byla v Bochově . od roku 1878 zde byla jednotřídní škola, kterou v roce 1889 navštěvovalo 26 dětí. Obyvatelé se zabývali hlavně zemědělstvím. První písemná zmínka o vsi Javorná pochází z roku 1480, kdy patřila k hradu Hartenštejn , který tehdy vlastnil Jindřich III. z Plavna . V privilegiu ze dne 17. března 1493, kterým udělil Jindřich III. z Plavna Bražci některé výsady, jsou také zmiňováni Jacob Mulner a Nickel Bolzinger z Ohorn jakou spoluúčastníci udělených výsad. Roku 1580 upozornili obyvatelé Javorné delegáta Zemských desek Matyáše Slivenského, že roku 1510 získal ves „ Brežecz a ves Jawornau “ neoprávněně Jiří Plick z Plickensteinu , zatímco majetek patřil dědicům Kryštofa Ze...
