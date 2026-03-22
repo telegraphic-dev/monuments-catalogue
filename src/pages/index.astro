@@ -1,16 +1,263 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
-import { getMonumentsSorted } from '../lib/content';
+import { byTitle, toMonumentCard } from '../lib/monuments';
 
-const monuments = await getMonumentsSorted();
+const entries = await getCollection('monuments');
+const monuments = entries.map(toMonumentCard).sort(byTitle);
+const featured = monuments.slice(0, 12);
+
+const districtMap = new Map<string, number>();
+for (const monument of monuments) {
+  if (monument.district) {
+    districtMap.set(monument.district, (districtMap.get(monument.district) || 0) + 1);
+  }
+}
+
+const topDistricts = [...districtMap.entries()].sort((a, b) => b[1] - a[1]).slice(0, 6);
 ---
 
-<Layout title="Monuments Catalogue">
-  <h1>Monuments Catalogue</h1>
-  <p>Canonical routes are now based on imported monument entries and districts.</p>
-  <ul>
-    <li><a href="/monuments/">Browse monuments</a></li>
-    <li><a href="/districts/">Browse districts</a></li>
-  </ul>
-  <p>Total monuments: {monuments.length}</p>
+<Layout title="Monuments Catalogue" description="Vyhledávatelný katalog historických památek podle obcí a okresů.">
+  <section class="hero">
+    <p class="eyebrow">Historická databáze</p>
+    <h1>Monuments Catalogue</h1>
+    <p class="intro">
+      Modernizovaný katalog památek převzatý z archivu soupispamatek.com. Procházejte obce, okresy a
+      jednotlivé zápisy ve čitelném, responzivním rozhraní.
+    </p>
+    <div class="hero-actions">
+      <a class="button" href="/monuments/">Prohlédnout všechny památky</a>
+      <a class="link" href="/districts/">Procházet podle okresu</a>
+    </div>
+  </section>
+
+  <section class="search-shell" aria-labelledby="search-heading">
+    <div>
+      <h2 id="search-heading">Rychlé hledání</h2>
+      <p>Zadejte název památky nebo okres.</p>
+    </div>
+    <label for="home-search" class="sr-only">Vyhledat památku</label>
+    <input id="home-search" type="search" placeholder="Např. Košátky nebo Mladá Boleslav" />
+    <p id="search-results" aria-live="polite">Zobrazeno {featured.length} z {monuments.length} položek.</p>
+  </section>
+
+  <section aria-labelledby="featured-heading">
+    <div class="section-head">
+      <h2 id="featured-heading">Vybrané památky</h2>
+      <a href="/monuments/">Zobrazit celý katalog</a>
+    </div>
+
+    <div class="card-grid" id="featured-grid">
+      {
+        featured.map((monument) => (
+          <article
+            class="monument-card"
+            data-search={`${monument.title.toLowerCase()} ${monument.district ?? ''}`}
+            data-title={monument.title}
+          >
+            <p class="tag">{monument.district ?? 'okres neuveden'}</p>
+            <h3><a href={monument.href}>{monument.title}</a></h3>
+            <p>{monument.excerpt}...</p>
+            <p class="meta">Fotografií: {monument.imageCount}</p>
+          </article>
+        ))
+      }
+    </div>
+  </section>
+
+  <section aria-labelledby="district-heading">
+    <div class="section-head">
+      <h2 id="district-heading">Nejčastější okresy</h2>
+      <a href="/districts/">Všechny okresy</a>
+    </div>
+    <ul class="district-list">
+      {
+        topDistricts.map(([district, count]) => (
+          <li>
+            <a href={`/districts/${district}/`}>{district}</a>
+            <span>{count} položek</span>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
 </Layout>
+
+<script>
+  const input = document.querySelector('#home-search');
+  const cards = Array.from(document.querySelectorAll('#featured-grid .monument-card'));
+  const liveRegion = document.querySelector('#search-results');
+
+  if (input instanceof HTMLInputElement && liveRegion) {
+    input.addEventListener('input', () => {
+      const query = input.value.trim().toLowerCase();
+      let visible = 0;
+
+      cards.forEach((card) => {
+        const searchValue = card.getAttribute('data-search') || '';
+        const match = query.length === 0 || searchValue.includes(query);
+        card.toggleAttribute('hidden', !match);
+
+        if (match) {
+          visible += 1;
+        }
+      });
+
+      liveRegion.textContent = `Zobrazeno ${visible} z ${cards.length} položek.`;
+    });
+  }
+</script>
+
+<style>
+  section {
+    margin-bottom: 2.2rem;
+  }
+
+  .hero,
+  .search-shell,
+  .district-list,
+  .monument-card {
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--surface);
+    box-shadow: var(--shadow);
+  }
+
+  .hero {
+    padding: clamp(1.3rem, 3vw, 2.5rem);
+    display: grid;
+    gap: 1rem;
+  }
+
+  .eyebrow {
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    font-size: 0.76rem;
+    color: var(--muted);
+  }
+
+  h1 {
+    font-size: clamp(2rem, 7vw, 3.9rem);
+  }
+
+  .intro {
+    max-width: 66ch;
+    color: var(--muted);
+  }
+
+  .hero-actions {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .button {
+    display: inline-block;
+    background: var(--accent);
+    color: #f5f8f6;
+    text-decoration: none;
+    border-radius: 999px;
+    padding: 0.65rem 1.15rem;
+    font-weight: 700;
+  }
+
+  .link {
+    font-weight: 700;
+  }
+
+  .search-shell {
+    padding: 1.1rem;
+    display: grid;
+    gap: 0.8rem;
+  }
+
+  .sr-only {
+    border: 0;
+    clip: rect(0, 0, 0, 0);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    white-space: nowrap;
+  }
+
+  input[type='search'] {
+    width: 100%;
+    border: 1px solid var(--line);
+    border-radius: 0.8rem;
+    padding: 0.8rem;
+    font: inherit;
+  }
+
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 0.8rem;
+    gap: 1rem;
+  }
+
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 0.8rem;
+  }
+
+  .monument-card {
+    padding: 1rem;
+    display: grid;
+    gap: 0.6rem;
+  }
+
+  .monument-card h3 {
+    font-size: 1.15rem;
+  }
+
+  .monument-card h3 a {
+    color: inherit;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.14em;
+  }
+
+  .monument-card p {
+    color: var(--muted);
+    font-size: 0.95rem;
+  }
+
+  .tag,
+  .meta {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  .district-list {
+    list-style: none;
+    margin: 0;
+    padding: 1rem;
+    display: grid;
+    gap: 0.65rem;
+  }
+
+  .district-list li {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.8rem;
+    border-bottom: 1px dashed var(--line);
+    padding-bottom: 0.6rem;
+  }
+
+  .district-list li:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .district-list span {
+    color: var(--muted);
+    white-space: nowrap;
+  }
+</style>

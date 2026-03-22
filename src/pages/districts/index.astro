@@ -1,22 +1,123 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
-import { getCanonicalDistrictPath, getMonumentsSorted } from '../../lib/content';
+import { normalizeDistrict, toMonumentCard } from '../../lib/monuments';
 
-const monuments = await getMonumentsSorted();
-const districts = [...new Set(monuments.map((entry) => entry.data.district).filter((district) => typeof district === 'string'))].sort((a, b) =>
-  a.localeCompare(b, 'cs'),
-);
+const districtMap = new Map<string, number>();
+for (const entry of await getCollection('monuments')) {
+  const district = normalizeDistrict(entry.data.district);
+  if (district) {
+    districtMap.set(district, (districtMap.get(district) || 0) + 1);
+  }
+}
+
+const districts = [...districtMap.entries()].sort((a, b) => a[0].localeCompare(b[0], 'cs'));
+
+const spotlight = (await getCollection('monuments')).map(toMonumentCard).filter((card) => card.district).slice(0, 9);
 ---
 
-<Layout title="Monuments Catalogue | Districts">
-  <h1>Districts</h1>
-  <ul>
-    {
-      districts.map((district) => (
-        <li>
-          <a href={getCanonicalDistrictPath(district)}>{district}</a>
-        </li>
-      ))
-    }
-  </ul>
+<Layout title="Okresy | Monuments Catalogue" description="Přehled všech okresů v katalogu památek.">
+  <section class="head">
+    <p class="eyebrow">Kategorie</p>
+    <h1>Okresní přehled</h1>
+    <p>{districts.length} okresů s importovaným obsahem.</p>
+  </section>
+
+  <section class="grid-wrap" aria-labelledby="district-heading">
+    <h2 id="district-heading">Seznam okresů</h2>
+    <ul class="district-grid">
+      {
+        districts.map(([district, count]) => (
+          <li>
+            <a href={`/districts/${district}/`}>{district}</a>
+            <span>{count} položek</span>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  <section class="spotlight" aria-labelledby="spotlight-heading">
+    <h2 id="spotlight-heading">Náhodný výběr napříč okresy</h2>
+    <ul>
+      {
+        spotlight.map((item) => (
+          <li>
+            <a href={item.href}>{item.title}</a>
+            <span>{item.district}</span>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
 </Layout>
+
+<style>
+  section {
+    margin-bottom: 1.4rem;
+  }
+
+  .head,
+  .grid-wrap,
+  .spotlight {
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--surface);
+    padding: 1rem 1.1rem;
+  }
+
+  .eyebrow {
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.77rem;
+    color: var(--muted);
+  }
+
+  h1 {
+    font-size: clamp(1.8rem, 5vw, 2.8rem);
+    margin: 0.35rem 0;
+  }
+
+  h2 {
+    margin-bottom: 0.6rem;
+  }
+
+  .district-grid,
+  .spotlight ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.55rem;
+  }
+
+  .district-grid {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  }
+
+  .district-grid li,
+  .spotlight li {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.8rem;
+    border: 1px solid var(--line);
+    background: var(--surface-strong);
+    border-radius: 0.8rem;
+    padding: 0.65rem 0.7rem;
+  }
+
+  .district-grid span,
+  .spotlight span {
+    color: var(--muted);
+    font-size: 0.88rem;
+    white-space: nowrap;
+  }
+
+  @media (max-width: 720px) {
+    .district-grid li,
+    .spotlight li {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+</style>

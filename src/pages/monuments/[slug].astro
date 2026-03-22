@@ -1,37 +1,155 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import { normalizeDistrict } from '../../lib/monuments';
 
 export async function getStaticPaths() {
-  const monuments = await getCollection('monuments');
+  const entries = await getCollection('monuments');
 
-  return monuments.map((entry) => ({
-    params: { slug: entry.slug },
-    props: { entry },
-  }));
+  return entries.map((entry) => {
+    const slug = (entry.data.slug || entry.slug).trim();
+    return {
+      params: { slug },
+      props: { entry },
+    };
+  });
 }
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+const district = normalizeDistrict(entry.data.district);
+const images = entry.data.images ?? [];
+const mapQuery = encodeURIComponent(`${entry.data.title} ${district ?? 'Česko'}`);
 ---
 
-<Layout title={`Monuments Catalogue | ${entry.data.title}`}>
-  <h1>{entry.data.title}</h1>
-  {
-    entry.data.district && (
-      <p>
-        District: <a href={`/districts/${entry.data.district}/`}>{entry.data.district}</a>
-      </p>
-    )
-  }
-  {
-    entry.data.sourceUrl && (
-      <p>
-        Source: <a href={entry.data.sourceUrl} rel="nofollow">{entry.data.sourceUrl}</a>
-      </p>
-    )
-  }
-  <article>
-    <Content />
+<Layout title={`${entry.data.title} | Monuments Catalogue`} description={`Detail památky: ${entry.data.title}`}>
+  <article class="detail">
+    <p class="district">{district ?? 'okres neuveden'}</p>
+    <h1>{entry.data.title}</h1>
+    <div class="meta-grid" aria-label="Metadata památky">
+      <p><strong>Počet fotografií:</strong> {entry.data.imageCount ?? images.length}</p>
+      {entry.data.importedAt && <p><strong>Import:</strong> {new Date(entry.data.importedAt).toLocaleDateString('cs-CZ')}</p>}
+      {entry.data.sourceUrl && (
+        <p>
+          <strong>Zdroj:</strong> <a href={entry.data.sourceUrl} target="_blank" rel="noopener noreferrer">původní stránka</a>
+        </p>
+      )}
+    </div>
+
+    {images.length > 0 && (
+      <section aria-labelledby="images-heading">
+        <h2 id="images-heading">Obrazová galerie</h2>
+        <ul class="images">
+          {
+            images.map((src, index) => (
+              <li>
+                <img src={src} loading="lazy" alt={`${entry.data.title} - fotografie ${index + 1}`} />
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+    )}
+
+    <section class="map" aria-labelledby="map-heading">
+      <h2 id="map-heading">Přibližná poloha</h2>
+      <iframe
+        title={`Mapa k položce ${entry.data.title}`}
+        src={`https://www.google.com/maps?q=${mapQuery}&output=embed`}
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+      ></iframe>
+    </section>
+
+    <section class="content" aria-labelledby="content-heading">
+      <h2 id="content-heading">Archivní text</h2>
+      <Content />
+    </section>
+
+    <p class="backlinks">
+      <a href="/monuments/">Zpět na seznam památek</a>
+      {district && (
+        <>
+          {' · '}
+          <a href={`/districts/${district}/`}>Další v okrese {district}</a>
+        </>
+      )}
+    </p>
   </article>
 </Layout>
+
+<style>
+  .detail {
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--surface);
+    padding: clamp(1rem, 3vw, 2rem);
+    display: grid;
+    gap: 1.2rem;
+  }
+
+  .district {
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.77rem;
+    color: var(--muted);
+  }
+
+  h1 {
+    font-size: clamp(1.7rem, 4.8vw, 3rem);
+  }
+
+  h2 {
+    font-size: clamp(1.2rem, 2.8vw, 1.65rem);
+    margin-bottom: 0.55rem;
+  }
+
+  .meta-grid {
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    padding: 0.8rem 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 0.45rem 0.85rem;
+  }
+
+  .images {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 0.7rem;
+  }
+
+  .images img {
+    width: 100%;
+    height: 100%;
+    min-height: 180px;
+    object-fit: cover;
+    border-radius: 0.8rem;
+    border: 1px solid var(--line);
+    background: var(--surface-strong);
+  }
+
+  .map iframe {
+    width: 100%;
+    min-height: 320px;
+    border: 0;
+    border-radius: 0.8rem;
+    border: 1px solid var(--line);
+  }
+
+  .content {
+    border-top: 1px solid var(--line);
+    padding-top: 0.8rem;
+  }
+
+  .content :global(p) {
+    color: var(--muted);
+  }
+
+  .backlinks {
+    font-weight: 600;
+  }
+</style>

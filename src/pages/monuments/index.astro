@@ -1,20 +1,149 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
-import { getCanonicalMonumentPath, getMonumentsSorted } from '../../lib/content';
+import { byTitle, toMonumentCard } from '../../lib/monuments';
 
-const monuments = await getMonumentsSorted();
+const monuments = (await getCollection('monuments')).map(toMonumentCard).sort(byTitle);
 ---
 
-<Layout title="Monuments Catalogue | Monuments">
-  <h1>Monuments</h1>
-  <p>{monuments.length} imported monument entries.</p>
-  <ul>
-    {
-      monuments.slice(0, 250).map((entry) => (
-        <li>
-          <a href={getCanonicalMonumentPath(entry)}>{entry.data.title}</a>
-        </li>
-      ))
-    }
-  </ul>
+<Layout title="Památky | Monuments Catalogue" description="Kompletní seznam historických památek.">
+  <section class="head">
+    <p class="eyebrow">Katalog</p>
+    <h1>Všechny památky</h1>
+    <p>Celkem {monuments.length} importovaných položek.</p>
+  </section>
+
+  <section class="tools" aria-label="Vyhledávání památek">
+    <label for="search" class="sr-only">Hledat v seznamu památek</label>
+    <input id="search" type="search" placeholder="Filtrovat podle názvu nebo okresu" />
+  </section>
+
+  <section>
+    <ul class="grid" id="monument-list">
+      {
+        monuments.map((monument) => (
+          <li class="card" data-search={`${monument.title.toLowerCase()} ${monument.district ?? ''}`}>
+            <p class="district">{monument.district ?? 'okres neuveden'}</p>
+            <h2><a href={monument.href}>{monument.title}</a></h2>
+            <p>{monument.excerpt}...</p>
+            <p class="meta">Fotografií: {monument.imageCount}</p>
+          </li>
+        ))
+      }
+    </ul>
+    <p id="count" aria-live="polite">Zobrazeno {monuments.length} z {monuments.length} položek.</p>
+  </section>
 </Layout>
+
+<script>
+  const input = document.querySelector('#search');
+  const items = Array.from(document.querySelectorAll('#monument-list .card'));
+  const counter = document.querySelector('#count');
+
+  if (input instanceof HTMLInputElement && counter) {
+    input.addEventListener('input', () => {
+      const query = input.value.toLowerCase().trim();
+      let visible = 0;
+
+      items.forEach((item) => {
+        const value = item.getAttribute('data-search') || '';
+        const match = query.length === 0 || value.includes(query);
+        item.toggleAttribute('hidden', !match);
+        if (match) {
+          visible += 1;
+        }
+      });
+
+      counter.textContent = `Zobrazeno ${visible} z ${items.length} položek.`;
+    });
+  }
+</script>
+
+<style>
+  section {
+    margin-bottom: 1.3rem;
+  }
+
+  .head,
+  .tools,
+  .card {
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--surface);
+  }
+
+  .head {
+    padding: 1rem 1.2rem;
+  }
+
+  .eyebrow,
+  .district,
+  .meta {
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.78rem;
+    color: var(--muted);
+  }
+
+  h1 {
+    font-size: clamp(1.8rem, 6vw, 3rem);
+    margin: 0.35rem 0;
+  }
+
+  .tools {
+    padding: 0.8rem;
+  }
+
+  input {
+    width: 100%;
+    border: 1px solid var(--line);
+    border-radius: 0.8rem;
+    padding: 0.8rem;
+    font: inherit;
+  }
+
+  .grid {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 0.8rem;
+  }
+
+  .card {
+    padding: 1rem;
+    box-shadow: var(--shadow);
+  }
+
+  .card h2 {
+    font-size: 1.14rem;
+    margin: 0.3rem 0 0.45rem;
+  }
+
+  .card h2 a {
+    color: inherit;
+  }
+
+  .card p {
+    color: var(--muted);
+  }
+
+  #count {
+    color: var(--muted);
+    margin-top: 0.75rem;
+  }
+
+  .sr-only {
+    border: 0;
+    clip: rect(0, 0, 0, 0);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    white-space: nowrap;
+  }
+</style>
