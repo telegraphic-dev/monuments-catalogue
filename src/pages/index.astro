@@ -1,8 +1,16 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Welcome from '../components/Welcome.astro';
+import { getMonumentsSorted } from '../lib/content';
+
+const monuments = await getMonumentsSorted();
 ---
 
 <Layout title="Monuments Catalogue">
-  <Welcome />
+  <h1>Monuments Catalogue</h1>
+  <p>Canonical routes are now based on imported monument entries and districts.</p>
+  <ul>
+    <li><a href="/monuments/">Browse monuments</a></li>
+    <li><a href="/districts/">Browse districts</a></li>
+  </ul>
+  <p>Total monuments: {monuments.length}</p>
 </Layout>

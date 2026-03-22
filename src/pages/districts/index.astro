@@ -1,0 +1,22 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCanonicalDistrictPath, getMonumentsSorted } from '../../lib/content';
+
+const monuments = await getMonumentsSorted();
+const districts = [...new Set(monuments.map((entry) => entry.data.district).filter((district) => typeof district === 'string'))].sort((a, b) =>
+  a.localeCompare(b, 'cs'),
+);
+---
+
+<Layout title="Monuments Catalogue | Districts">
+  <h1>Districts</h1>
+  <ul>
+    {
+      districts.map((district) => (
+        <li>
+          <a href={getCanonicalDistrictPath(district)}>{district}</a>
+        </li>
+      ))
+    }
+  </ul>
+</Layout>

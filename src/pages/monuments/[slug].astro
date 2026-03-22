@@ -1,0 +1,37 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const monuments = await getCollection('monuments');
+
+  return monuments.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<Layout title={`Monuments Catalogue | ${entry.data.title}`}>
+  <h1>{entry.data.title}</h1>
+  {
+    entry.data.district && (
+      <p>
+        District: <a href={`/districts/${entry.data.district}/`}>{entry.data.district}</a>
+      </p>
+    )
+  }
+  {
+    entry.data.sourceUrl && (
+      <p>
+        Source: <a href={entry.data.sourceUrl} rel="nofollow">{entry.data.sourceUrl}</a>
+      </p>
+    )
+  }
+  <article>
+    <Content />
+  </article>
+</Layout>

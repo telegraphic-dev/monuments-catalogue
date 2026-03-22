@@ -1,0 +1,33 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCanonicalMonumentPath, getMonumentsSorted } from '../../lib/content';
+
+export async function getStaticPaths() {
+  const monuments = await getMonumentsSorted();
+  const districts = [...new Set(monuments.map((entry) => entry.data.district).filter((district) => typeof district === 'string'))];
+
+  return districts.map((district) => ({
+    params: { district },
+    props: {
+      district,
+      monuments: monuments.filter((entry) => entry.data.district === district),
+    },
+  }));
+}
+
+const { district, monuments } = Astro.props;
+---
+
+<Layout title={`Monuments Catalogue | District ${district}`}>
+  <h1>District: {district}</h1>
+  <p>{monuments.length} monument pages mapped to this district.</p>
+  <ul>
+    {
+      monuments.map((entry) => (
+        <li>
+          <a href={getCanonicalMonumentPath(entry)}>{entry.data.title}</a>
+        </li>
+      ))
+    }
+  </ul>
+</Layout>

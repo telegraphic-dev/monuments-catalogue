@@ -3,6 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "prebuild": "node scripts/generate-legacy-redirects.mjs",
+    "postbuild": "node scripts/clean-generated-redirects.mjs",
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
@@ -10,7 +12,9 @@
     "check": "astro check",
     "lint": "eslint . --ext .js,.mjs",
     "format": "prettier --check \"**/*.{astro,js,json,md,ts}\"",
-    "import:soupispamatek": "node scripts/import-soupispamatek.mjs"
+    "import:soupispamatek": "node scripts/import-soupispamatek.mjs",
+    "redirects:generate": "node scripts/generate-legacy-redirects.mjs",
+    "redirects:smoke-test": "node scripts/smoke-test-redirects.mjs"
   },
   "dependencies": {
     "astro": "^5.14.0"
