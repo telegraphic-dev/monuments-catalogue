@@ -1,5 +1,6 @@
 node_modules/
 data/raw/soupispamatek/pages/
+data/generated/
 
 .astro/
 dist/
